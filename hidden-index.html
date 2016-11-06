@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <link href="/lib/style.css" rel="stylesheet">
+  <title>Salon des Refusés: Dialectics for new computer science</title>
+  <meta name="description" content="Many interesting ideas about programming struggle to find space in the modern programming language research community, because they do not follow traditional methodologies or do not share the same assumptions. The workshop provides a venue where such ideas can be presented and discussed." />
+  <meta name="keywords" content="programming langauges, research, workshop, conference, computer science" />  
+  <meta name="author" content="Tomas Petricek, Stephen Kell" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@tomaspetricek">
+  <meta name="twitter:creator" content="@tomaspetricek">  
+  <meta name="twitter:title" content="Salon des Refusés: Dialectics for new computer science" />
+  <meta name="twitter:image" content="http://refuses.githuub.io/lib/card.jpg" />
+  <meta name="twitter:description" content="Many interesting ideas about programming struggle to find space in the modern programming language research community, because they do not follow traditional methodologies or do not share the same assumptions. The workshop provides a venue where such ideas can be presented and discussed." />  
+  <link href="https://fonts.googleapis.com/css?family=Kreon|Pontano+Sans" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <style type="text/css">
+    html, body, header, h1, h2 {
+      margin:0px;
+      padding:0px;
+    }
+    body {
+      background:black;
+      color:white;
+      overflow-x:hidden;
+    }
+    article {
+      height:1000px;
+    }
+    header {
+      background:black;
+      background-image:url('lib/manet.jpg'); 
+      background-size:cover;
+      background-position:center;
+      width:100vw;
+      height:100vh;
+      text-align:center;
+    }
+    h1, h2, h3 {
+      font-family:kreon;
+    }
+    header h1 {
+      text-shadow:7px 7px 15px black, -7px -7px 15px black, 7px -7px 15px black, -7px 7px 15px black;
+    }
+    header h2 {
+      text-shadow:7px 7px 15px black, -7px -7px 15px black, 7px -7px 15px black, -7px 7px 15px black;
+    }
+    header h2 a, h2 a:visited { 
+      color:white; 
+    }    
+    article p, article li {
+      font:14pt 'Pontano Sans', sans-serif;
+      color:#b8b8b8;
+      margin:10px 0px 15px 0px;
+    }
+    .narrow li {
+      margin:0px; 
+    }
+    article h2 {
+      font-size:30pt;
+      margin:30px 0px 10px 0px;
+    }
+    strong {
+      color:#e0e0e0;
+    }
+    article a, article a:hover {
+      color:white;
+    }
+    article .content {
+      padding:30px;
+    }
+
+    header { padding-top:25vh; }
+    h1 { font-size:50pt; }
+    h2 { font-size:30pt; margin-top:20px; }
+    .down { margin-top:30px; }
+    
+    @media only screen and (min-width : 700px) {    
+      article p, article li { font-size:16pt; }
+      header { padding-top:30vh; }
+      h1 { font-size:60pt; }
+      h2 { font-size:435t; margin-top:30px; }
+      .down { margin-top:40px; }
+    }
+    @media only screen and (min-width : 1000px) {    
+      article p, article li { font-size:18pt; }
+      header { padding-top:30vh; }
+      h1 { font-size:70pt; }
+      h2 { font-size:40pt; margin-top:30px; }
+      .down { margin-top:50px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Salon des Refusés</h1>
+    <h2>Dialectics for new computer science</h2>
+    <h2 class="down"><a href="#main"><i class="fa fa-angle-double-down"></i></a></h2>
+  </header>
+  <article>
+    <div class="container">
+    <div class="row">
+      <div class="col-lg-1"></div>
+      <div class="col-lg-10 content">        
+        
+        <h2><a name="main"></a>Introduction</h2>
+        <p>Salon des Refusés (“exhibition of rejects”) was an 1863 exhibition of artworks rejected from the official Paris Salon. The jury of Paris Salon required near-photographic realism and classified works according to a strict genre hierarchy. Paintings by many, later famous, modernists such as Édouard Manet were rejected and appeared in what became known as the Salon des Refusés. This workshop aims to be the programming language research equivalent of Salon des Refusés. We provide venue for exploring new ideas and new ways of doing computer science. </p>
+        <p>Many interesting ideas about programming might struggle to find space in the modern programming language research community, often because they are difficult to evaluate using established evaluation methods (be it proofs, measurements or controlled user studies). As a result, new ideas are often seen as “unscientific”.</p>
+        <p>This workshop provides a venue where such interesting and thought provoking ideas can be exposed to critical evaluation. Submissions that provoke interesting discussion among the program committee members will be published together with an attributed review that presents an alternative position, develops additional context or summarizes discussion from the workshop. This means of engaging with papers not just enables explorations of novel programming ideas, but also enourages new ways of doing computer science. </p>
+        
+        <h2>Topics of interest</h2>
+        <p>The scope of the workshop is determined more by the format of submissions than by the specific area of programming language or computer science research that we are interested in. We welcome submissions in a format that makes it possible to think about programming in a new way, including, but not limited to:</p>
+        <ul>
+          <li><strong>Thought experiments</strong> – we believe that thought experiments, analogies and illustrative metaphors can provide novel insights and inspire fruitful programming language ideas. </li>
+          <li><strong>Experimentation</strong> – we find prejudices in favour of theory, as far back as there is institutionalized science, but programming can often be seen more as experimentation than as theorizing. We welcome interesting experiments even if there is yet no overarching theory that explains why they happened.</li>
+          <li><strong>Paradigms</strong> – all scientific work is rooted in a scientific paradigm that frame what questions can be asked. We encourage submissions that reflect on existing paradigms or explore alternative scientific paradigms. </li>
+          <li><strong>Metaphors, myths and analogies</strong> – any description of formal, mathematical, quantitative or even poetical nature still represents just an analogy. We believe that fruitful ideas can be learned from less common forms of analogies as well as from the predominant, formal and mathematical ones. </li>
+          <li><strong>From jokes to science fiction</strong> – a story or an artistic performance may explore ideas and spark conversations that provide crucial inspiration for development of new computer science thinking.</li>
+        </ul>
+        <h2>Format and review</h2>
+        <p>We welcome short papers (up to 3000 words) and long papers (up to 9000 words) as well as screencasts or interactive essays. We intend to publish accepted paper on the web, but any format is welcome for the submission (authors can use the ‹Programming› paper template).</p>
+        <ul class="narrow">
+          <li>Deadline for submissions: <strong>February 1st 2017</strong></li>
+          <li>Notification of authors: <strong>February 17th 2017</strong></li>
+          <li>Early registration deadline: <strong>March 6th 2017</strong></li>
+          <li>Workshop at ‹Programming› 2017: <strong>April 3rd – 6th 2017</strong></li>
+          <li>The submission link will be available here closer to the submission deadline!</li>
+        </ul>
+          
+        <h2>Program committee</h2>
+        <p>To help the authors choose topics that wold spark interesting discussions among the PC members and workshop attendees, 
+          we asked the PC members to briefly write about their interests. You are welcome to use these as an inspiration for
+          your submission, but they are by no means a complete list of topics!</p>
+        <p>If you have any questions or want to check whether your idea would fit, please send email to Tomas Petricek at <a href="mailto:tomas@tomasp.net">tomas@tomasp.net</a> or ping him at <a href="http://twitter.com/tomaspetricek">@tomaspetricek</a>,
+          or get in touch with any of the other members of the committee!</p>
+        
+        <h3>Dominic Orchard, University of Kent</h3>
+        <p>Dominic frequently works within the research paradigm of using mathematics and logic as tools for understanding programs and computation. He is fascinated by times when this activity feels like shoving a square peg in a round hole, presenting an opportunity to think outside, or against, the paradigm or seek better tools within it.</p>
+        <h3>Felienne Hermans, TU Delft</h3>
+        <p>Felienne likes to think about what is and what is not programming. She especially loves to help people be better at programming, while they might not be actively looking to get better, because they do not self-identify as programmers. As such she has worked on code smells and refactoring for Excel and for Scratch, a programming language for children.</p>
+        <h3>Antranig Basman, Raising the floor</h3>
+        <p>Antranig wants to see work that widens the audience for software by considering the role it might take in healthy societies, based around artefacts that work for everyone. These days, he codes exclusively in JavaScript, the language of the proles - in whom our hope lies. He is interested in work which challenges the assumptions we use to carve up our domain into separated disciplines. He is excited by the possibility that we are still in the prehistory of our subject, and that the principles and practices we have adopted so far may be completely faulty. </p>
+        <h3>Stephen Kell, Univeristy of Cambridge</h3>
+        <p>Stephen thinks that program-ming, as we know it, has unacceptably high human cost, and that we cannot solve this problem by escalation. We need programming systems that help us not to write more code, but to write less, combine, downsize and simplify code. He is a system-builder, interested not only in designing and building such programming systems, but in evolving existing systems in this non-traditional direction.</p>
+        <h3>Sam Aaron, University of Cambridge</h3>
+        <p>Sam is a live coder working directly at the intersections of art, education and programming language research. He is particularly interested in exploring the notion of liveness within languages enabling him to consider code as an interface for direct manipulation. He is the creator of Sonic Pi - a live coding music synthesiser currently gaining traction by both school teachers and musicians alike.</p>
+        <h3>Tomas Petricek, Alan Turing Institute</h3>
+        <p>Tomas is interested in work that challenges how we think about programming. He is interested in novel programming models, theory and practice of functional programming, tools for data-driven storytelling and data science, but also philosophy of science applied to programming.</p>
+        <h3>Luke Church, Google and Cambridge</h3>
+        <p>Luke Church is a researcher at Google and the University of Cambridge. He studies how to improve the experience that people have when dealing with complex systems. For example: programming languages, configuration systems or animal behaviour.</p>
+
+      </div>
+    </div>
+    </div>
+  </article>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+  <script>
+    $(function() {
+      $('a[href*="#"]:not([href="#"])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html, body').animate({
+              scrollTop: target.offset().top
+            }, 1000);
+            return false;
+          }
+        }
+      });
+    });
+  </script>
+</body>
+</html>
