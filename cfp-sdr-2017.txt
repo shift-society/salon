@@ -1,5 +1,5 @@
 ============================================================================
-             Call for Papers: Salon des Refusés 2017
+             Call for Papers: Salon des RefusÃ©s 2017
 
                    (a workshop on programming)
 
@@ -9,13 +9,13 @@
 http://2017.programming-conference.org/track/refuses-2017
 ============================================================================
 
-Salon des Refusés ("exhibition of rejects") was an 1863 exhibition of artworks
+Salon des RefusÃ©s ("exhibition of rejects") was an 1863 exhibition of artworks
 rejected from the official Paris Salon. The jury of Paris Salon required near-
 photographic realism and classified works according to a strict genre
-hierarchy. Paintings by many, later famous, modernists such as Édouard Manet
-were rejected and appeared in what became known as the Salon des Refusés. This
+hierarchy. Paintings by many, later famous, modernists such as Ã‰douard Manet
+were rejected and appeared in what became known as the Salon des RefusÃ©s. This
 workshop aims to be the programming language research equivalent of Salon des
-Refusés. We provide a venue for exploring new ideas and new ways of doing
+RefusÃ©s. We provide a venue for exploring new ideas and new ways of doing
 computer science.
 
 Many interesting ideas about programming might struggle to find space in the
