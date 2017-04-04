@@ -1,4 +1,4 @@
-============================================================================
+﻿============================================================================
              Call for Papers: Salon des Refusés 2017
 
                    (a workshop on programming)
@@ -31,7 +31,6 @@ together with an attributed review that presents an alternative position,
 develops additional context or summarizes discussion from the workshop. This
 means of engaging with papers not just enables explorations of novel
 programming ideas, but also encourages new ways of doing computer science.
-
 
 ### Submission guidance
 
