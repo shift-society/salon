@@ -1,0 +1,54 @@
+---
+layout: default
+title: Programming is Writing is Programming
+---
+<header>
+<div class="art-meta" id="art-meta"><div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <h1 class="sdr faded">Salon des Refusés 2017</h1>
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>
+  <div class="row"><div class="col-md-10 col-lg-8">
+    <div>
+      <p class="author"><strong>Review by</strong>: {{ page.review-authors }}</p>
+      {{ page.review-abstract }}
+      
+      <p class="links">
+        <a href="/{{ page.paper-url }}/paper"><i class="fa fa-arrow-circle-left"></i> Back to the paper</a>
+        <a href="#article"><i class="fa fa-arrow-circle-down"></i> Read the review</a>
+      </p>
+    </div>
+  </div></div>
+</div></div>
+
+{% include header.html %}
+</header>
+
+
+<article>
+<div class="">
+  <div class="container"><a id="article"></a>
+    {{ content }}
+  </div>
+</div>
+</article>
+
+<footer><div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>  
+  <div class="row"><div class="col-md-10 col-lg-8">
+    <div>
+      <p class="author"><strong>Paper by</strong>: {{ page.paper-authors }}</p>
+      {{ page.paper-abstract }}
+      
+      <p class="links">
+        <a href="/{{ page.paper-url }}/paper"><i class="fa fa-arrow-circle-left"></i> Back to the paper</a>
+      </p>
+    </div>
+  </div></div>
+</div></footer>
