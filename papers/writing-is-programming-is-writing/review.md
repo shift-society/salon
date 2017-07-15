@@ -95,7 +95,7 @@ that use formatting for an unexpected effect.
 
 </div></div>
 <div class="row figure"><div class="col-lg-6" markdown="1">
-<a href="atjde.png"><img src="/writing/atjde.png" style="height:530px;margin-bottom:10px" class="img-responsive" /></a>
+<a href="/papers/writing-is-programming-is-writing/atjde.png"><img src="/papers/writing-is-programming-is-writing/atjde.png" style="height:530px;margin-bottom:10px" class="img-responsive" /></a>
 
 **Figure 1.** A poem from Anticodes by Václav Havel ([Havel, 1964](#refs)); the text of the repeating line 
 "Ať jde každý vlastní cestou!" can be translated to English as "Let everyone go their own way!"
