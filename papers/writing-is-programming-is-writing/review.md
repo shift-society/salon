@@ -1,7 +1,7 @@
 ---
 layout: review
-title: Programming is Writing is Programming
-paper-url: writing
+title: 'Review: Programming is Writing is Programming'
+paper-url: writing-is-programming-is-writing
 paper-abstract: |
   <p>Writing and programming are often seen as different: writing a creative profession, programming 
   a technical one. Below the surface however, there is one striking similarity: both writing and 
@@ -31,14 +31,14 @@ review-authors: Tomas Petricek
 ## 1. The role of analogies
 
 Is programming like writing? In the past, programming has been linked to a wide range of 
-activities including industrial engineering (Randell, 1996), craftsmanship (McBreen 2002), art 
-(Blackwell & Collins, 2005) and even to planning a dinner:
+activities including industrial engineering ([Randell, 1996](#refs)), craftsmanship ([McBreen, 2002](#refs)), art 
+([Blackwell & Collins, 2005](#refs)) and even to planning a dinner:
 
 > It's just like planning a dinner. You have to plan ahead and schedule everything so it's ready
 > when you need it. Programming requires patience and the ability to handle detail. Women are 
 > 'naturals' at computer programming.
 >
-> <p class="author">Grace Hopper, quoted in <br />The Computer Girls (Mandell, 1967)</p>
+> <p class="author">Grace Hopper, quoted in <br />The Computer Girls ([Mandell, 1967](#refs))</p>
 
 Those examples show that analogies often tell us more about the goals of the author than the
 answer to a question whether the analogy is fitting or not. The quote by Hopper was published in 
@@ -97,7 +97,7 @@ that use formatting for an unexpected effect.
 <div class="row figure"><div class="col-lg-6" markdown="1">
 <a href="atjde.png"><img src="/writing/atjde.png" style="height:530px;margin-bottom:10px" class="img-responsive" /></a>
 
-**Figure 1.** A poem from Anticodes by Václav Havel (Havel, 1964); the text of the repeating line 
+**Figure 1.** A poem from Anticodes by Václav Havel ([Havel, 1964](#refs)); the text of the repeating line 
 "Ať jde každý vlastní cestou!" can be translated to English as "Let everyone go their own way!"
 
 </div><div class="col-lg-6 pi" markdown="1">
@@ -141,7 +141,7 @@ __3_1415    +__3141;for                 (_31415 = 3141-
 ,_3141592654))                              ;_314= *"3.141592";}
 ```
 
-**Figure 2.** Lievaart Roemer's Obfuscated C Code Contest program (Roemer, 1989). Despite the formatting 
+**Figure 2.** Lievaart Roemer's Obfuscated C Code Contest program ([Roemer, 1989](#refs)). Despite the formatting 
 (and variable naming) suggesting the number $\pi$, the program calculates and prints the value of $e$.
 
 </div></div>
@@ -199,7 +199,7 @@ print(x.Name)
 Following the authors of _Programming is Writing is Programming_, we can treat the different naming
 of variables as different _styling_. As noted by the authors, better variable naming correlates 
 with program comprehension and so such styling is important, especially when combined with the fact
-common belief that code is read more often than it is written (Martin, 2009). However, just like 
+common belief that code is read more often than it is written ([Martin, 2009](#refs)). However, just like 
 formatting, such styling does not change the meaning of the program for compiler.
 
 This suggest an interesting dichotomy. On the one hand, styling in the form of variable naming is 
@@ -255,7 +255,7 @@ _Waiting for Godot_ and a Wikipedia page about it.
 
 <div class="figure" style="margin:0px 0px 20px 0px" markdown="1">
 
-**Figure 3.** Description of _Waiting for Godot_ from Wikipedia (Wikipedia, 2017) including the first 
+**Figure 3.** Description of _Waiting for Godot_ from Wikipedia ([Wikipedia, 2017](#refs)) including the first 
 introductory sentence and a quotation from the _Plot_ section.
 
 </div>
@@ -286,7 +286,7 @@ collection of turnips), at which Estragon idly gnaws, loudly reiterating his bor
 
 <div class="figure" style="margin:0px 0px 20px 0px" markdown="1">
 
-**Figure 4.** A section from the Act I of play _Waiting for Godot_ (Beckett, 1953)
+**Figure 4.** A section from the Act I of play _Waiting for Godot_ ([Beckett, 1953](#refs))
 with scene remarks edited for brevity.
 
 </div>
@@ -364,7 +364,7 @@ Drawing an analogy between programming and writing reminds us about the complexi
 primary text and provides a useful counterbalance to the more common analogy with mathematics.
 The idea that mathematical objects have an ideal form is commonplace, as illustrated, for example,
 by Paul Erdős' idea of "The Book" in which God keeps the most elegant proof of each mathematical 
-theorem (Aigner et al., 2010).
+theorem ([Aigner et al., 2010](#refs)).
 
 ### 3.2 Code as the primary meaning
 
@@ -387,7 +387,7 @@ several forms including a _Publication language_:
 > 3. The characters to be used may be different in different countries, but univocal 
 >    correspondence with reference representation must be secured.
 >
-> <p class="author" style="margin-top:10px">Report on the Algorithmic<br />Language ALGOL (Naur et al., 1963)</p>
+> <p class="author" style="margin-top:10px">Report on the Algorithmic<br />Language ALGOL ([Naur et al., 1963](#refs))</p>
 
 Should we design more publication languages and write programs just so that they can be read?
 This is not a practical suggestion, but it would help us communicate ideas about modern 
@@ -425,7 +425,7 @@ to his students:
 > mimic wrote without rules, putting down whatever sounded right, then going 
 > back to see if it still sounded right and changing it if it didn’t.
 >
-> <p class="author">Robert Pirsig, Zen and the Art of<br /> Motorcycle Maintenance (Pirsig, 1999)</p>
+> <p class="author">Robert Pirsig, Zen and the Art of<br /> Motorcycle Maintenance ([Pirsig, 1999](#refs))</p>
 
 In other words, we can look at the process that led to a great work and identify its steps.
 However, can we produce equally great works by following the same steps in another context or
@@ -439,7 +439,7 @@ engineering discipline where results can be reliably and predictably produced an
 a part of the machinery and can easily be replaced (Ensmenger 2012). This goal became a part of the 
 industry narrative, but it was never accomplished and many argue that programming is often exploring 
 the unknown and operates in hardly predictable contexts where artistic approach is more suitable 
-(Gabriel & Sulivan, 2010). Thus, the analogy between writing and programming is quite fitting.
+([Gabriel & Sulivan, 2010](#refs)). Thus, the analogy between writing and programming is quite fitting.
 
 There is an important lesson we can learn from Pirsig's criticism of rules in writing.
 We should not see the seven steps of programming process as a best practice or a guideline for 
@@ -456,8 +456,8 @@ rules outlined in _Programming is Writing is Programming_. In this section, we c
 from both writing and programming and see how these can be translated into the other discipline.
 
 The seven step process of programming treats programming as construction of a linguistic entity. 
-This is a characteristic of the Algol research programme (Priestley, 2011). The most notable example of an 
-alternative approach is the idea of live coding that dates back to Smalltalk (Priestley, 2011). In Smalltalk, 
+This is a characteristic of the Algol research programme ([Priestley, 2011](#refs)). The most notable example of an 
+alternative approach is the idea of live coding that dates back to Smalltalk ([Priestley, 2011](#refs)). In Smalltalk, 
 programming is not seen as a process that results in a program. Instead, programming is seen as 
 a live interaction or continued communication with the computer. In live coded music, the 
 programmer keeps writing and running code during the whole performance. 
@@ -512,7 +512,7 @@ contributed to the review. Finally, thanks to Jeremy Gibbons who suggested using
 obfuscated C program.
  
 </div></div>
-<div class="row"><div class="col-sm-12" style="padding-top:15px"><h3>References</h3></div></div>
+<div class="row"><div class="col-sm-12" style="padding-top:15px"><h3>References<a name="refs"></a></h3></div></div>
 <div class="row references"><div class="col-md-6 col-lg-5" markdown="1">
  
  - **Aigner, M., Ziegler, G. M., & Quarteroni, A. (2010)**. Proofs from the Book (Vol. 274). Berlin: Springer.

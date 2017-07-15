@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Programming is Writing is Programming
 ---
 <header>
 <div class="art-meta" id="art-meta"><div class="container">
@@ -12,11 +11,11 @@ title: Programming is Writing is Programming
   </div>
   <div class="row"><div class="col-md-10 col-lg-8">
     <div>
-      <p class="author"><strong>Review by</strong>: {{ page.review-authors }}</p>
+      <p class="author"><strong>Reviewer</strong>: {{ page.review-authors }}</p>
       {{ page.review-abstract }}
       
       <p class="links">
-        <a href="/{{ page.paper-url }}/paper"><i class="fa fa-arrow-circle-left"></i> Back to the paper</a>
+        <a href="/papers/{{ page.paper-url }}/paper"><i class="fa fa-arrow-circle-left"></i> Back to the paper</a>
         <a href="#article"><i class="fa fa-arrow-circle-down"></i> Read the review</a>
       </p>
     </div>
@@ -47,7 +46,8 @@ title: Programming is Writing is Programming
       {{ page.paper-abstract }}
       
       <p class="links">
-        <a href="/{{ page.paper-url }}/paper"><i class="fa fa-arrow-circle-left"></i> Back to the paper</a>
+        <a href="/papers/{{ page.paper-url }}/paper/#article"><i class="fa fa-arrow-circle-left"></i> Back to the paper</a>
+        <a href="/#article"><i class="fa fa-arrow-circle-left"></i> Back to other papers</a>
       </p>
     </div>
   </div></div>

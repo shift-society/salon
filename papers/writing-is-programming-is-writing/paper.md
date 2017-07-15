@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Programming is Writing is Programming
-paper-url: writing
+paper-url: writing-is-programming-is-writing
 paper-abstract: |
   <p>Writing and programming are often seen as different: writing a creative profession, programming 
   a technical one. Below the surface however, there is one striking similarity: both writing and 
@@ -56,13 +56,13 @@ forming words and sentences. It is used for various different reasons and purpos
 not limited to storytelling, correspondence and reports of various kinds. The term 'writing' is 
 broad, and can be used for activities varying from the motor skill of forming letters to formulating 
 thoughts, feelings and opinions, and to be flawless in the spelling of words and use of grammar 
-rules (Paus, 2014). In this paper we focus on the activity of text composing, regardless the type 
+rules (<a href="#refs">Paus, 2014</a>). In this paper we focus on the activity of text composing, regardless the type 
 or genre of the text. 
 
 And what is programming? Programming is commonly seen as the process by which a human formulates a 
 problem in such a way that a computer can execute it. It involves understanding the problem, 
 creating a design, writing the syntax of a program - sometimes referred to as coding - and 
-performing maintenance on an existing program (Weinberg, 1985).
+performing maintenance on an existing program (<a href="#refs">Weinberg, 1985</a>).
 
 ## 3. A high level plan executed in detail
 
@@ -107,12 +107,12 @@ striking differences?
 <div class="row">
 <div class="col-md-5" markdown="1">
 
-There are a number of models of the writing process available, e.g. (Huizenga, 2004), (Paus 2014), 
-(Flower & Hayes, 1981), (Rohman, 1965), all similar in the general picture they paint. The 
+There are a number of models of the writing process available, e.g. ([Huizenga, 2004](#refs)), (Paus 2014), 
+([Flower & Hayes, 1981](#refs)), ([Rohman, 1965](#refs)), all similar in the general picture they paint. The 
 writing process can roughly be divided in three phases: pre-writing, writing, post-writing, 
 which in turn can be divided in two or more sub-phases.  Similarly, the process of writing a 
 computer program generally is divided in three phases, resembling the phases in the writing 
-process: design, implement, test, or problem solving, implementing, maintaining (Dale, 1992).
+process: design, implement, test, or problem solving, implementing, maintaining ([Dale, 1992](#refs)).
 
 There are more fine grained models too, which we will use here to explore the commonalities 
 between writing and programming as extensive as possible. 
@@ -122,7 +122,7 @@ between writing and programming as extensive as possible.
 <div class="figure" markdown="1" style="padding:20px 0px 20px 20px">
 
 <table class="table">
-<tr><th>Writing (Huizenga, 2004) </th><th> Programming (Prata, 2013)</th></tr>
+<tr><th>Writing ([Huizenga, 2004](#refs)) </th><th> Programming ([Prata, 2013](#refs))</th></tr>
 <tr><td>1. Gathering information </td><td> 1. Defining program objectives</td></tr>
 <tr><td>2. Selecting information </td><td> 2. Designing the program</td></tr>
 <tr><td>3. Structuring information </td><td> 3. Writing code</td></tr>
@@ -138,8 +138,8 @@ between writing and programming as extensive as possible.
 </div></div>
 <div class="row"><div class="col-md-9" markdown="1">
 
-In this paper, we use two more fine grained models, for writing we use (Huizenga, 2004)
-and for programming (Prata, 2013), both consisting of seven steps, as shown 
+In this paper, we use two more fine grained models, for writing we use ([Huizenga, 2004](#refs))
+and for programming ([Prata, 2013](#refs)), both consisting of seven steps, as shown 
 in Table 1 (while there are other steps that could be distinguished, we compare these 
 two as an exploration of the activities. We do encourage readers to find other sources, or even 
 define their own steps on one of the two activities and compare those).
@@ -203,7 +203,7 @@ others, information found in external sources like books, videos and websites ab
 
 In programming, the gathering of information is a field of research in itself: requirements 
 engineering. There are numerous different techniques for eliciting the requirements from a 
-user (Kotonya, 1998), (Sommerville, 1997), (Pohl, 2010).
+user ([Kotonya, 1998](#refs)), ([Sommerville, 1997](#refs)), ([Pohl, 2010](#refs)).
 
 In this context, we are mainly talking about the process in which software is made for a customer. 
 Of course, there are also projects that start because programmers really want to make something 
@@ -225,7 +225,7 @@ relevant for the reader to understand the story line and also fits the chosen su
 The selection of relevant information too is a skill important in programming, again, especially 
 in the commercial setting of creating software for an internal or external costumer. Different 
 features of the program to be created are classified by importance, for example using the MoSCoW 
-model (Clegg, 1994), or user stories are created, which are then grouped into sprints. 
+model ([Clegg, 1994](#refs)), or user stories are created, which are then grouped into sprints. 
 By categorizing important features, programmers are deciding what information is most important 
 for the program.
 
@@ -262,13 +262,13 @@ applying rules. For example, code must be syntactically correct in order to be c
 interpreted. In addition, some languages have stricter rules about what is allow, like typing 
 rules that the programmer must obey.
 
-According to (Flower & Hayes, 1981), in this process, the writer has to juggle different specific 
+According to ([Flower & Hayes, 1981](#refs)), in this process, the writer has to juggle different specific 
 demands of written language varying from generic and formal, syntactic and lexical to the 
 motor tasks of forming letters or typing on a keyboard. For example, when a writer has 
 difficulties with the spelling of the words, this process will use up so much of their working 
 memory that they have no room to think about the structure of a paragraph. This high 
 'cognitive load' has been studied in the context of programming, and programming education, as 
-well (Harms, 2013), (Sweller, 2016), (Shaffer et al., 2003)}
+well ([Harms, 2013](#refs)), ([Sweller, 2016](#refs)), ([Shaffer et al., 2003](#refs))}
 
 ### 5.4 Reflecting and Reviewing
 
@@ -286,7 +286,7 @@ programming, since a programmer can party rely on the computer to validate their
 of course by the compiler and the type-checker in statically typed languages, and later by an 
 interpreter and a runtime. Furthermore, programmers increasingly often use tests to ensure the 
 correctness of their programs. To find bugs, but also to ensure code quality, programmers sometimes 
-use static analysis tools (Johnson et al., 2013).
+use static analysis tools ([Johnson et al., 2013](#refs)).
 
 Failure to compile, to pass all tests, or too many code smells might impose a need for a revision 
 of the source code. This type of product-inherent warnings for review is not present in writing 
@@ -332,7 +332,7 @@ perspectives, such as first or third person, or the omniscience of a narrator. S
 style will automatically be applied by the writer throughout the entire text, and therefor differs 
 from the above described styles imposed on the writer. 
 
-As the French writer Raymond Queneau shows in (Queneau, 1981), many styles can 
+As the French writer Raymond Queneau shows in ([Queneau, 1981](#refs)), many styles can 
 be used to communicate the same content. By using different styles, the atmosphere of the text 
 can strongly vary. Writers often experiment with styles to find out which one fits the intended 
 feeling best.
@@ -395,7 +395,7 @@ talking to him about something, but about what? about what? about what?
 Prata's list of steps of programming does consist the style of a program, which of course makes 
 it interesting to think of what exactly 'style' would mean in the context of a program. Some 
 authors who have explored different styles in programming, for example 
-(Lopes, 2014). Her book describes a number of different styles to 
+([Lopes, 2014](#refs)). Her book describes a number of different styles to 
 calculate term frequency, including continuation passing style, and functional style. 
 However, if we look at the steps in programming, we feel this is more related to 
 _Designing the program_ than it is to stylizing.
@@ -405,7 +405,7 @@ There are however several places in source code where developers have freedom in
 code has comments. Some programmers feel that good code should explain itself, but many 
 also agree that comments are a good coding practice. The most extreme form of this style 
 might be the idea of _literate programming_ introduced by 
-(Knuth, 1984). He envisioned a style of programming in which 
+([Knuth, 1984](#refs)). He envisioned a style of programming in which 
 program statements are interspersed with documentation in a natural language, to ease 
 in understanding the program. However compelling the idea of literate programming, in 
 practice it is not used widely, with the potential exception of 'notebooks' like 
@@ -449,9 +449,9 @@ Console.WriteLine(area);
 <div class="row"><div class="col-lg-9" markdown="1">
 
 While these differences might seem small, keywords are known to play a large role in source code, 
-as about three quarters of characters in a code base consist of identifiers (Lawrie et al., 2007). 
+as about three quarters of characters in a code base consist of identifiers ([Lawrie et al., 2007](#refs)). 
 Better identifier names correlate with improved program comprehension. For example, 
-(Lawrie et al., 2006) reports on a study performed with over 100 programmers, 
+([Lawrie et al., 2006](#refs)) reports on a study performed with over 100 programmers, 
 who had to describe functions and rate their confidence in doing so. Their results show that 
 using full word identifiers leads to better code comprehension than using single-letter 
 identifiers, measured by both description rating and by confidence in understanding. 
@@ -516,12 +516,12 @@ writing', Ken Arnold argues that:
 > the owners of language standards to take this up. I want the next version of these languages 
 > to require any code that uses new features to conform to some style.
 > 
-> <p class="author">The best software writing (Arnold, 2005)</p>
+> <p class="author">The best software writing ([Arnold, 2005](#refs))</p>
 
 More than tools used for natural language writing though, tools for programming, called integrated 
 developments environments (IDEs) have features that format code automatically. Recently, 
 researchers have successfully attempted to learn formatting conventions from a code base, in order 
-to increase its consistency automatically (Allamanis et al., 2014).
+to increase its consistency automatically ([Allamanis et al., 2014](#refs)).
 
 </div></div>
 <div class="row">
@@ -564,7 +564,7 @@ is _syntax highlighting_: the coloring of lexical tokens in source code text acc
 certain categorization. For example, coloring keywords blue, variables red and operators black. 
 Experiments done with syntax highlighting have shown that it can reduce time needed for a given 
 task and reduces context switches. This effect is greater in novice programmers than in programmers 
-with more experience (Sarkar, 2015). It would be interesting to see if effects like this exist 
+with more experience ([Sarkar, 2015](#refs)). It would be interesting to see if effects like this exist 
 in natural language comprehension as well, for example by using colors to identify part of speech. 
 
 ### 6.3 Compiling and running code
@@ -613,24 +613,24 @@ programming education too?
 For example, the use of _observational learning_, where a teacher or peers demonstrates a task 
 before learners attempt it. In writing education in fact, teacher modeling is the most 
 prevailing way of using models for learning. Usually in the instructional 
-phase (Koster & Bouwer, 2016). In this teaching method the teacher thinks out loud, they explain 
+phase ([Koster & Bouwer, 2016](#refs)). In this teaching method the teacher thinks out loud, they explain 
 and demonstrates parts of the writing task. Pupils are expected to adopt the line of reasoning 
 while executing the writing task. It is shown an effective instructional method to teach 
-writing strategies, see e.g. (Fidalgo et al., 2015), (Graham et al. 2005), (Koster & Bower, 2016). 
+writing strategies, see e.g. ([Fidalgo et al., 2015](#refs)), (Graham et al. 2005), ([Koster & Bower, 2016](#refs)). 
 
 Modeling is not limited to one or some parts of the writing process, but is a useful method for 
 instruction in strategies for every step of the process, from gathering information to reviewing 
-the text, see also (Aldewereld & Hermans, 2017). Usually the teacher functions as a mastery model, 
+the text, see also ([Aldewereld & Hermans, 2017](#refs)). Usually the teacher functions as a mastery model, 
 although it is shown that observing coping models (which are not flawless, but experience difficulties 
 in the execution of the task and show how they cope with these difficulties) raises the self-efficacy 
 of the pupils and enhances their performance more effectively. For weaker pupils, observing 
 coping models is more beneficial, for better learners observing better models is 
-(Braaksma et al., 2002), (Braaksma et al., 2004), (Koster & Bower, 2016), (Zimmerman & Kitsantas, 1999).
+([Braaksma et al., 2002](#refs)), ([Braaksma et al., 2004](#refs)), ([Koster & Bower, 2016](#refs)), ([Zimmerman & Kitsantas, 1999](#refs)).
 
 This effectiveness of this method is explained by the existence of the mirror neuron system in 
 our brain. This system makes the brain demonstrate identical neural activity when we observe 
 others performing a task as if we perform the task ourselves, see e.g. 
-(Rizzolatti, 2005), (Rizzolatti & Craighero, 2004). In this way, the brain already 'learns' how 
+([Rizzolatti, 2005](#refs)), ([Rizzolatti & Craighero, 2004](#refs)). In this way, the brain already 'learns' how 
 to perform a task, and primes the execution of similar tasks. 
 
 #### 7.2.2 Course integration
@@ -640,7 +640,7 @@ this type of integration is beneficial for both of the topics taught. For exampl
 en Vitale combined science courses for grades 1 and 2 (ages 6 to 8) with reading and writing 
 assignments, such as writing an overview of learnings and a diary, and reading are 
 appropriate science materials. These children performed significantly better than a control 
-group on both science and reading (Vitale & Romance, 2012).
+group on both science and reading ([Vitale & Romance, 2012](#refs)).
 
 In another study compared the effectiveness of two different methods of teaching science: one 
 aimed at just teaching science, a second on combined with reading and literacy. In this 
@@ -648,7 +648,7 @@ latter group the kids learned to think, speak, read and write like scientists. T
 which is often used and designed by the same university was aimed at performing and learning 
 about experiments. The results showed that the experimental group had a better understanding 
 of what science is, a better understanding of the basic concepts and also they identified 
-more as scientist (Girod & Twyman, 2009).
+more as scientist ([Girod & Twyman, 2009](#refs)).
 
 This last study could prove especially interesting for programming education, as it also 
 could help a broader group of kids identify as programmers!
@@ -679,11 +679,11 @@ program. Can writers similarly somehow have a machine reflect on their text whil
 still writing?  
 
 There are certain things that we consider out of scope for this paper. For example, in the 
-above, we have followed (Huizenga, 2004) and (Prata, 2013) in their linear 
+above, we have followed ([Huizenga, 2004](#refs)) and ([Prata, 2013](#refs)) in their linear 
 representation of writing and programming, but often, in both domains, the processes can 
 also be represented as a cycle. For example, in writing the consensus is that writers 
 continuously switch between the steps of the process as described above. In programming a 
-cycle that is often referred to is Beck's Test Driven Development cycle (Beck, 2003). We 
+cycle that is often referred to is Beck's Test Driven Development cycle ([Beck, 2003](#refs)). We 
 presented the cognitive processes and skills in a linear way, but the reality is not so 
 strict. The process is not even cyclic, although this fits reality more than a linear 
 representation. In reality the writer or programmer switches between writing or programming 
@@ -695,7 +695,7 @@ are similar leads us to think that also the skills and the way we teach could le
 each other. 
 
 </div></div>
-<div class="row"><div class="col-sm-12" style="padding-top:15px"><h3>References</h3></div></div>
+<div class="row"><div class="col-sm-12" style="padding-top:15px"><h3>References<a name="refs"></a></h3></div></div>
 <div class="row references"><div class="col-md-6 col-lg-5" markdown="1">
  
  - **Allamanis, M., Earl T. Barr, Christian Bird, and Charles Sutton (2014)**. Learning 

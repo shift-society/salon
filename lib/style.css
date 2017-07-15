@@ -197,3 +197,33 @@ article .figure {
   margin-top:10px;
   margin-bottom:20px;
 }
+
+/***************** Paper outlines on the homepage *****************/
+article section {
+  background:#EAEAE9;
+  padding:40px 0px 40px 0px;
+  margin:30px 0px 30px 0px;
+}
+article .outlines blockquote {
+  margin:10px 0px 30px 0px;
+  padding:0px;
+}
+article .outlines .links {
+  text-align:right;
+  margin:15px 0px 20px 0px;
+}
+article .outlines h2, article .outlines h3, article .outlines h4 {
+  color:black;
+}
+article .outlines a {
+  font-weight:400;
+  color:#992C2C;
+}
+article .outlines a:hover, article .outlines a:active {
+  text-decoration:none;
+  color:#D83E3E;
+}
+article .outlines .links i {
+  display:inline-block;
+  margin-right:5px;
+}
