@@ -164,7 +164,7 @@ these steps as different activities in programming too?
 </div>
 <div class="col-md-8 col-lg-7" markdown="1">
 <div class="figure" markdown="1" style="padding:10px 0px 10px 20px">
-<a href="links.jpg"><img src="/writing/links.jpg" class="img-responsive"/></a>
+<a href="/papers/writing-is-programming-is-writing/links.jpg"><img src="/papers/writing-is-programming-is-writing/links.jpg" class="img-responsive"/></a>
 
 **Figure 1.** The similarities between both models visualized.
 </div>
@@ -491,7 +491,7 @@ characteristics of the animal per line), the final version of the text has a dif
 </div>
 <div class="col-sm-12 col-md-8 figure" markdown="1">
 
-<a href="diamong.png"><img src="/writing/diamond.png" class="img-responsive" /></a>
+<a href="/papers/writing-is-programming-is-writing/diamong.png"><img src="/papers/writing-is-programming-is-writing/diamond.png" class="img-responsive" /></a>
 
 **Figure 6.** Two versions of a diamond poem, with different formatting
 

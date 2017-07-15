@@ -168,7 +168,7 @@ deciding reason why these tools aren't used more widely.
 <div class="col-md-6" markdown="1">
 <div class="figure" markdown="1" style="padding:0px 0px 0px 20px;margin-top:0px">
 
-<a href="scratch.png"><img src="scratch.png" class="img-responsive"></a>
+<a href="/papers/code-is-not-just-text/scratch.png"><img src="/papers/code-is-not-just-text/scratch.png" class="img-responsive"></a>
 
 **Figure 3.** Scratch by MIT Media Lab
 
