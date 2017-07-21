@@ -244,6 +244,19 @@ data format and a subset of JavaScript, so that I don't have to handle the entir
 of the language while still demonstrating the upsides of the interaction model. 
 It can be found on GitHub: [https://github.com/gregoor/syntactor](https://github.com/gregoor/syntactor).
 
+<style type="text/css">
+#syntactor-demo kbd, #syntactor-demo span { font-family:Inconsolata; }
+#syntactor-demo kbd { color:black; font-weight:700; background:none; border-style:none; box-shadow:none; }
+#syntactor-demo hr { margin:5px 0px 5px 0px; }
+#syntactor-demo h3 { text-align:left !important; color:black; font: 500 13pt 'Libre Franklin'; }
+#syntactor-demo button { border-style:none; background:white; font: 500 13pt 'Libre Franklin'; }
+</style>
+<div id="syntactor-demo">{"a":"b"}</div>
+<script type="text/javascript" src="syntactor.min.js"></script>
+<script>
+  Syntactor.render('#syntactor-demo', {initiallyShowKeymap: true});
+</script>
+
 </div></div>
 <div class="row"><div class="col-sm-12" style="padding-top:15px"><h3>References<a name="refs"></a></h3></div></div>
 <div class="row references"><div class="col-md-6 col-lg-5" markdown="1">
