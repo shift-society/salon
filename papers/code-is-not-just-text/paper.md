@@ -241,7 +241,8 @@ these languages and this is what a constrained editor needs to get right to beat
 
 As a proof of concept I worked on a version of such a constrained editor but only for JSONs, a 
 data format and a subset of JavaScript, so that I don't have to handle the entire complexity 
-of the language while still demonstrating the upsides of the interaction model. 
+of the language while still demonstrating the upsides of the interaction model.
+Not all common code transformations are implemented yet, but those that are require less keystrokes (and I'd argue less cognitive load) than in traditional editors. Examples of those are inserting & deleting of properties/elements and changing of types. There is also already some context-sensitivy built-in, as the keymap only shows actions that are relevant for the selected node.
 It can be found on GitHub: [https://github.com/gregoor/syntactor](https://github.com/gregoor/syntactor).
 
 <style type="text/css">
@@ -254,7 +255,14 @@ It can be found on GitHub: [https://github.com/gregoor/syntactor](https://github
 <div id="syntactor-demo">{"a":"b"}</div>
 <script type="text/javascript" src="syntactor.min.js"></script>
 <script>
-  Syntactor.render('#syntactor-demo', {initiallyShowKeymap: true});
+  Syntactor.render('#syntactor-demo', {initiallyShowKeymap: true, defaultValue: {
+    "name": "Syntactor",
+    "version": "1.0.6",
+    "commits": 64,
+    "open_source": true,
+    "features": ["insert", "delete", "change types", "undo & redo", "no syntax errors possible"],
+    "missing_features": ["reorder", "multi-select", "support ALL the languages"]
+  }});
 </script>
 
 </div></div>
