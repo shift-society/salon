@@ -75,7 +75,7 @@ This paper compares writing and programming and uncovers similarities between so
 of writing and programming workflows. We also observe differences, like the attention that 
 writers spent on formatting and styling, and the opportunity for feedback in programming.
 
-<p class="links"><a href="/salon/2017/papers/writing-is-programming-is-writing/paper"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
+<p class="links"><i class="fa fa-arrow-circle-right"></i> Read the paper (coming soon)</p>
 
 #### [Critique abstract](/salon/2017/papers/writing-is-programming-is-writing/critique)
 The paper thus opens an interesting line of thought. What can we say by contrasting
@@ -85,7 +85,7 @@ with writing can help us understand the flaws and limitations of this approach. 
 novel on Wikipedia is not the same thing as the novel. Furthermore, writers often use styling 
 and formatting to add a twist to an idea.
 
-<p class="links"><a href="/salon/2017/papers/writing-is-programming-is-writing/critique"><i class="fa fa-arrow-circle-right"></i> Read the critique</a></p>
+<p class="links"><i class="fa fa-arrow-circle-right"></i> Read the critique (coming soon)</p>
 
 </div>
 <div class="col-md-6" markdown="1">
@@ -105,7 +105,7 @@ have their own set of problems when used productively. But there might be
 a middle ground worth exploring, between the high productivity of traditional 
 editors and the constrained interactivity of visual programming languages.
 
-<p class="links"><a href="/salon/2017/papers/code-is-not-just-text/paper"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
+<p class="links"><i class="fa fa-arrow-circle-right"></i> Read the paper (coming soon)</p>
 
 #### [Critique abstract](/salon/2017/papers/code-is-not-just-text/critique)
 This paper describes the current state of code editors, and how they could improve. I am 
@@ -115,7 +115,7 @@ to the described solution but to some of the assumptions the author is making. A
 just because the solution is not there yet. There are some assumptions made in the paper that 
 have not yet deserved enough attention.
 
-<p class="links"><a href="/salon/2017/papers/code-is-not-just-text/critique"><i class="fa fa-arrow-circle-right"></i> Read the critique</a></p>
+<p class="links"><i class="fa fa-arrow-circle-right"></i> Read the critique (coming soon)</p>
 
 </div></div>
 </div>
