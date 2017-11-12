@@ -5,18 +5,18 @@ layout: default
 <div class="art-meta" id="art-meta"><div class="container">
   <div class="row">
     <div class="col-sm-12">
-      <h1 class="sdr faded">Salon des Refusés 2017</h1>
+      <h1 class="sdr faded">Salon des Refusés {{ page.edition }}</h1>
       <h1>{{ page.title }}</h1>
     </div>
   </div>
   <div class="row"><div class="col-md-10 col-lg-8">
     <div>
-      <p class="author"><strong>Reviewer</strong>: {{ page.review-authors }}</p>
+      <p class="author"><strong>Critique</strong>: {{ page.review-authors }}</p>
       {{ page.review-abstract }}
       
       <p class="links">
-        <a href="/papers/{{ page.paper-url }}/paper"><i class="fa fa-arrow-circle-left"></i> Back to the paper</a>
-        <a href="#article"><i class="fa fa-arrow-circle-down"></i> Read the review</a>
+        <a href="/salon/{{ page.edition }}/papers/{{ page.paper-url }}/paper"><i class="fa fa-arrow-circle-left"></i> Back to the paper</a>
+        <a href="#article"><i class="fa fa-arrow-circle-down"></i> Read the critique</a>
       </p>
     </div>
   </div></div>
@@ -46,8 +46,8 @@ layout: default
       {{ page.paper-abstract }}
       
       <p class="links">
-        <a href="/papers/{{ page.paper-url }}/paper#article"><i class="fa fa-arrow-circle-left"></i> Back to the paper</a>
-        <a href="/#article"><i class="fa fa-arrow-circle-left"></i> Back to other papers</a>
+        <a href="/salon/{{ page.edition }}/papers/{{ page.paper-url }}/paper#article"><i class="fa fa-arrow-circle-left"></i> Back to the paper</a>
+        <a href="/salon/{{ page.edition }}/#article"><i class="fa fa-arrow-circle-left"></i> Back to other papers</a>
       </p>
     </div>
   </div></div>

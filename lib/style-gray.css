@@ -1,0 +1,18 @@
+#nav.sticky { 
+  background:#272727;
+}
+article h1, article h2, article h3, article h4 { 
+  color:#4C4C4C;
+}
+article section {
+  background:#EAEAE9;
+}
+article .outlines a {
+  color:#4C4C4C;
+}
+article .outlines a:hover, article .outlines a:active {
+  color:#6C6C6C;
+}
+footer, header {
+  background-image:url('sdr-gray.jpg'); 
+}

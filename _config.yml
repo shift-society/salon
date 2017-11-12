@@ -27,3 +27,4 @@ exclude:
 # Serve settings  
 port: 8081
 host: localhost
+baseurl: /salon

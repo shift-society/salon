@@ -1,0 +1,18 @@
+#nav.sticky { 
+  background:#352222;
+}
+article h1, article h2, article h3, article h4 { 
+  color:#992C2C;
+}
+article section {
+  background:#EAEAE9;
+}
+article .outlines a {
+  color:#992C2C;
+}
+article .outlines a:hover, article .outlines a:active {
+  color:#D83E3E;
+}
+footer, header {
+  background-image:url('sdr-red.jpg'); 
+}
