@@ -63,12 +63,12 @@ working with code.
 <div class="container outlines">
 <div class="row"><div class="col-md-6" markdown="1">
 
-### [Programming is writing is programming](/salon/2017/papers/writing-is-programming-is-writing/paper)
+### Programming is writing is programming
 
 > **Authors**: Felienne Hermans, Marlies Aldewereld<br />
 > **Critique**: Tomas Petricek
 
-#### [Paper abstract](/salon/2017/papers/writing-is-programming-is-writing/paper)
+#### Paper abstract
 Writing and programming are often seen as different: writing a creative profession, 
 programming a technical one. Below the surface however, there is one striking similarity.
 This paper compares writing and programming and uncovers similarities between some of the steps 
@@ -77,7 +77,7 @@ writers spent on formatting and styling, and the opportunity for feedback in pro
 
 <p class="links"><i class="fa fa-arrow-circle-right"></i> Read the paper (coming soon)</p>
 
-#### [Critique abstract](/salon/2017/papers/writing-is-programming-is-writing/critique)
+#### Critique abstract
 The paper thus opens an interesting line of thought. What can we say by contrasting
 programming with writing? At the surface, writing and programming are both about communicating 
 an idea. Programming research often tries to distill such ideas to their core essence. Analogies 
@@ -91,12 +91,12 @@ and formatting to add a twist to an idea.
 <div class="col-md-6" markdown="1">
 
 
-### [Code is not just text: Why our code editors are inadequate tools](/salon/2017/papers/code-is-not-just-text/paper)
+### Code is not just text: Why our code editors are inadequate tools
 
 > **Author**: Gregor Weber<br />
 > **Critique**: Felienne Hermans
 
-#### [Paper abstract](/salon/2017/papers/code-is-not-just-text/paper)
+#### Paper abstract
 The most popular code editors treat code like any other form of text.
 This leads to all kinds of problems, from syntax errors to code style 
 inconsistencies. Alternative editors, namely visual programming languages, 
@@ -107,7 +107,7 @@ editors and the constrained interactivity of visual programming languages.
 
 <p class="links"><i class="fa fa-arrow-circle-right"></i> Read the paper (coming soon)</p>
 
-#### [Critique abstract](/salon/2017/papers/code-is-not-just-text/critique)
+#### Critique abstract
 This paper describes the current state of code editors, and how they could improve. I am 
 super happy there is a paper about code editors, of course, since mu interest is in unconventional 
 code editors, like Excel and Scratch. When reviewing this paper my attention is mostly drawn not 
