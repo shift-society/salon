@@ -51,6 +51,8 @@ mean in the context of code? Is it important? Can text writing be as iterative a
 code? These are just a few of the questions raised by our side-by-side exploration. Does writing 
 make you a better programmer? What skills underpin both? Can programming learn from writing education?
 
+{% include banner.html %}
+
 ## 2. What is writing and what is programming?
 
 So, what is writing? Writing is a way in which humans communicate, using letters and symbols, 

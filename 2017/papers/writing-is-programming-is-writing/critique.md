@@ -56,6 +56,8 @@ The second analogy looks at different ways of expressing the meaning of programs
 The perspective of writing lets us consider _human comprehension_ of computer programs and 
 various aspects that contribute to it. 
 
+{% include banner.html %}
+
 We agree with the authors that exploring the analogies between programming and writing lets
 us learn new things about both. In the review, we aim to stretch some of the ideas presented
 in the paper and complement the discussion. The main points of the review are:

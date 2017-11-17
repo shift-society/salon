@@ -92,6 +92,8 @@ actually have hard syntactic rules about what input is accepted and throw errors
 following them. If you're lucky, you'll at least see the resulting errors in-line, but sometimes 
 even the best parsers can't figure out where the error is located.
 
+{% include banner.html %}
+
 After surviving the first dozens of hours of syntactical failing, the grammatical rules of that 
 language become ingrained in the programmer's mind and there are fewer and fewer syntax errors. 
 These errors never fully disappear though, not even pros are immune to typos/slips and it doesn't 
