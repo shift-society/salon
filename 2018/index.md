@@ -117,7 +117,7 @@ the [ACM SIGPLAN format](http://www.acm.org/publications/proceedings-template)
  - Deadline for submissions: **February 1, 2018**
  - Notification of authors: **February 17, 2018**
  - Workshop at ‹Programming› 2018: **April 9-12, 2018**
- - Submission page will be available soon!
+ - Submission page: [SdR 2018 on EasyChair](https://easychair.org/conferences/?conf=sdr18)
  
 <div style="height:50px" class="hidden-sm"></div>
 </div><div class="col-md-6" markdown="1">
