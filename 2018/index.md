@@ -190,7 +190,7 @@ as a developer for Ableton where he builds software tools for musicians. In his 
 creates online experiences which explore the explanatory and educational potential of 
 interactive literature. 
 
-#### Philip Tchernavskij, Aarhus University
+#### Philip Tchernavskij, Université Paris-Sud
 Philip programs so that we all might program less. He works on infrastructure for software that 
 can be pulled apart and put back together by end-users to fit them and their communities. He is 
 trying to make software tools more like analog hand tools, which can generally be selected, 
