@@ -91,6 +91,117 @@ even poetical nature still represents just an analogy. We believe that fruitful 
 learned from less common forms of analogies as well as from the predominant, formal and 
 mathematical ones.
 
+
+<div style="height:50px" class="hidden-sm"></div>
+</div></div>
+</div>
+<section style="margin-top:0px">
+<div class="container">
+<div class="row"><div class="col-md-9" markdown="1">
+
+## Programme committee
+
+To help the authors choose topics that would spark interesting discussions among the PC members 
+and workshop attendees, we do not just list PC members, but we also include their brief bio below.
+You are welcome to use these as an inspiration for your submission, but they are by no means a 
+complete list of topics!
+
+If you have any questions or want to check whether your idea would fit, please send email to 
+Luke Church (luke at church dot name) or Tomas Petricek (tomas at tomasp dot net) or ping Tomas
+at [@tomaspetricek](http://twitter.com/tomaspetricek), or get in touch with any of the other members 
+of the committee to discuss your ideas.
+
+</div></div>
+</div>
+</section>
+<div class="container outlines">
+<div class="row"><div class="col-md-6" markdown="1">
+
+#### Antranig Basman, Raising the floor
+Antranig wants to see work that widens the audience for software by considering the role it might 
+take in healthy societies, based around artefacts that work for everyone. These days, he codes 
+exclusively in JavaScript, the language of the proles - in whom our hope lies. He is interested in 
+work which challenges the assumptions we use to carve up our domain into separated disciplines. He 
+is excited by the possibility that we are still in the prehistory of our subject, and that the 
+principles and practices we have adopted so far may be completely faulty.
+
+#### Javier Burroni, University of Massachusetts, Amherst
+Javier met Smalltalk almost 20 years ago, and that made an influence that still persists in his 
+view of programming. He likes to think of Programming Languages as a tool of thought, and their 
+relation with the discovery of knowledge.  He is now working with Probabilistic Programming 
+Languages implementing new tools to increase our understanding. 
+
+#### Luke Church, University of Cambridge
+Luke is a researcher at the University of Cambridge. He studies how to improve the experience that 
+people have when dealing with complex systems. For example: programming languages, configuration 
+systems or animal behaviour.
+
+#### Patrick Dubroy
+Patrick is a programmer and interaction designer based in Munich, Germany. Most recently, he worked 
+at Y Combinator Research, doing research at the intersection of programming languages and user 
+interfaces. In the past, He also worked at Google, BumpTop, and IBM.
+
+#### Richard Gabriel, IBM Research
+Richard P. Gabriel is a researcher at IBM Research, looking into the architecture, design, and 
+implementation of extraordinarily large, self-sustaining systems. He is the award-winning author 
+of four books and a poetry chapbook. He lives in California.
+
+#### Stephen Kell, University of Cambridge
+Stephen thinks that program-ming, as we know it, has unacceptably high human cost, and that we 
+cannot solve this problem by escalation. We need programming systems that help us not to write more 
+code, but to write less, combine, downsize and simplify code. He is a system-builder, interested 
+not only in designing and building such programming systems, but in evolving existing systems in 
+this non-traditional direction.
+
+</div><div class="col-md-6" markdown="1">
+
+#### Mariana Marasoiu, University of Cambridge
+Mariana is a Ph.D. student at the University of Cambridge in the Computer Laboratory.
+Her current work focuses on building tools for creating dynamic data visualisations 
+aimed at end user programmers.
+
+
+#### James Noble, Victoria University of Wellington
+James' research focuses primarily on two areas of software engineering: the design of the users' 
+interface (the parts of software that users have to deal with every day), and the programmers'
+interface (the internal structures and organisations of software that programmers see only when they
+are designing, building, or modifying software). His research in both these areas is coloured by his
+longstanding interest in object-oriented approaches to design. Topics he has studied range from 
+aliasing and object ownership, design patterns, agile methodology, visualisation and computer music, 
+through to postmodernism and the semiotics of programming. 
+
+#### David Nolen, Cognitect
+David is a curious programmer, musician, and teacher living in Brooklyn. He currently writes Clojure, 
+JavaScript and Ruby for Cognitect. He also helps run the affordable Kitchen Table Coders workshops 
+from a Brooklyn studio. In his free time he contributes to several open source Clojure projects 
+including core.match, core.logic and ClojureScript.
+
+#### Tomas Petricek, Alan Turing Institute
+Tomas is interested in work that challenges how we think about programming. He is interested in 
+novel programming models, theory and practice of functional programming, tools for data-driven 
+storytelling and data science, but also philosophy of science applied to programming.
+
+#### Jack Schaedler, Ableton
+Jack studied Digital Signal Processing at Queen Mary, University of London and Computer Science 
+at the University of Texas. He is interested in drawing, painting, science, software, and education. 
+Jack wants to help make personal computing edifying and beautiful. 
+
+#### Philip Tchernavskij, Aarhus University
+Philip programs so that we all might program less. He works on infrastructure for software that 
+can be pulled apart and put back together by end-users to fit them and their communities. He is 
+trying to make software tools more like analog hand tools, which can generally be selected, 
+combined, shared, and altered in ways that we have learned software should not be. Besides 
+rethinking the languages and architectures we use to build interactive systems, this involves 
+questioning the contemporary roles of designers, developers, and users.
+
+
+
+
+
+
+ 
+
+
 <div style="height:50px" class="hidden-sm"></div>
 </div></div>
 </div>
@@ -99,11 +210,6 @@ mathematical ones.
 <div class="row"><div class="col-md-9" markdown="1">
 
 ## Format and dates
-We welcome short papers (up to 3000 words) and long papers (up to 9000 words) as well as 
-screencasts or interactive essays. We intend to publish accepted paper on the web, but any 
-format is welcome for the submission. We intend to consider publishing post-proceedings using 
-the [ACM SIGPLAN format](http://www.acm.org/publications/proceedings-template) 
-(`acmart` format with the `sigconf` option), so you can use this template for your submission too.
 
 
 </div></div>
@@ -122,11 +228,13 @@ the [ACM SIGPLAN format](http://www.acm.org/publications/proceedings-template)
 <div style="height:50px" class="hidden-sm"></div>
 </div><div class="col-md-6" markdown="1">
 
-### Program committee
+### Paper format
  
-The program committee for the workshop will be announced soon, so please check back for more 
-information! We will also soon share papers and critiques from the previous edition of the 
-workshop, which should provide useful background (in no way exhaustive) for what format works well.
+We welcome short papers (up to 3000 words) and long papers (up to 9000 words) as well as 
+screencasts or interactive essays. We intend to publish accepted paper on the web, but any 
+format is welcome for the submission. We intend to consider publishing post-proceedings using 
+the [ACM SIGPLAN format](http://www.acm.org/publications/proceedings-template) 
+(`acmart` format with the `sigconf` option), so you can use this template for your submission too.
 
 <div style="height:50px" class="hidden-sm"></div>
 </div></div>
