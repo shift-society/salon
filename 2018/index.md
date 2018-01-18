@@ -211,6 +211,9 @@ questioning the contemporary roles of designers, developers, and users.
 
 ## Format and dates
 
+Submit your papers by February 1, 2018 using the EasyChair link below. We welcome both 
+short (3000 words) and long (9000 words) papers. For some (by no means complete) inspiration on 
+what the papers might look like, check out the [papers from Salon des Refusés 2017](https://www.shift-society.org/salon/2017/).
 
 </div></div>
 </div>
@@ -232,7 +235,7 @@ questioning the contemporary roles of designers, developers, and users.
  
 We welcome short papers (up to 3000 words) and long papers (up to 9000 words) as well as 
 screencasts or interactive essays. We intend to publish accepted paper on the web, but any 
-format is welcome for the submission. We intend to consider publishing post-proceedings using 
+format is welcome for the submission. We will consider publishing post-proceedings using 
 the [ACM SIGPLAN format](http://www.acm.org/publications/proceedings-template) 
 (`acmart` format with the `sigconf` option), so you can use this template for your submission too.
 
