@@ -182,9 +182,13 @@ novel programming models, theory and practice of functional programming, tools f
 storytelling and data science, but also philosophy of science applied to programming.
 
 #### Jack Schaedler, Ableton
-Jack studied Digital Signal Processing at Queen Mary, University of London and Computer Science 
-at the University of Texas. He is interested in drawing, painting, science, software, and education. 
-Jack wants to help make personal computing edifying and beautiful. 
+Jack is interested in work that aims to make computation more easily appropriable by 
+authors, educators, artists, and musicians who wish to communicate their ideas in a dynamic 
+medium. He's interested in tools and languages for authoring interactive literature and artwork, 
+as well as approaches for ensuring that these works remain accessible to posterity. Jack works 
+as a developer for Ableton where he builds software tools for musicians. In his free time, he 
+creates online experiences which explore the explanatory and educational potential of 
+interactive literature. 
 
 #### Philip Tchernavskij, Aarhus University
 Philip programs so that we all might program less. He works on infrastructure for software that 
