@@ -141,10 +141,11 @@ Patrick is a programmer and interaction designer based in Munich, Germany. Most 
 at Y Combinator Research, doing research at the intersection of programming languages and user 
 interfaces. In the past, He also worked at Google, BumpTop, and IBM.
 
-#### Richard Gabriel, IBM Research
-Richard P. Gabriel is a researcher at IBM Research, looking into the architecture, design, and 
-implementation of extraordinarily large, self-sustaining systems. He is the award-winning author 
-of four books and a poetry chapbook. He lives in California.
+#### Richard Gabriel, Hasso Plattner Institute
+Richard P. Gabriel is the Worse is Better guy. He is a Researcher at Leisure investigating computer 
+generation of writerly text and poetry as well as artificial consciousness. His official affiliation 
+is Visiting Researcher at the Hasso Plattner Institute. He is the award-winning author of four books 
+and a poetry chapbook. He lives in California.
 
 #### Stephen Kell, University of Cambridge
 Stephen thinks that program-ming, as we know it, has unacceptably high human cost, and that we 
@@ -159,7 +160,6 @@ this non-traditional direction.
 Mariana is a Ph.D. student at the University of Cambridge in the Computer Laboratory.
 Her current work focuses on building tools for creating dynamic data visualisations 
 aimed at end user programmers.
-
 
 #### James Noble, Victoria University of Wellington
 James' research focuses primarily on two areas of software engineering: the design of the users' 
