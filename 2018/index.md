@@ -227,8 +227,8 @@ what the papers might look like, check out the [papers from Salon des Refusés 2
 
 ### Important dates
 
- - Deadline for submissions: ~February 1, 2018~ Extended to **February 8, 2018**
- - Notification of authors: ~February 17, 2018~ Extended to **February 24, 2018**
+ - Deadline for submissions: ~~February 1, 2018~~ Extended to **February 8, 2018**
+ - Notification of authors: ~~February 17, 2018~~ Extended to **February 24, 2018**
  - Workshop at ‹Programming› 2018: **April 9-12, 2018**
  - Submission page: [SdR 2018 on EasyChair](https://easychair.org/conferences/?conf=sdr18)
  
