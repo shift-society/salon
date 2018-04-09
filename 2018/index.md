@@ -141,10 +141,11 @@ Patrick is a programmer and interaction designer based in Munich, Germany. Most 
 at Y Combinator Research, doing research at the intersection of programming languages and user 
 interfaces. In the past, He also worked at Google, BumpTop, and IBM.
 
-#### Richard Gabriel, IBM Research
-Richard P. Gabriel is a researcher at IBM Research, looking into the architecture, design, and 
-implementation of extraordinarily large, self-sustaining systems. He is the award-winning author 
-of four books and a poetry chapbook. He lives in California.
+#### Richard Gabriel, Hasso Plattner Institute
+Richard P. Gabriel is the Worse is Better guy. He is a Researcher at Leisure investigating computer 
+generation of writerly text and poetry as well as artificial consciousness. His official affiliation 
+is Visiting Researcher at the Hasso Plattner Institute. He is the award-winning author of four books 
+and a poetry chapbook. He lives in California.
 
 #### Stephen Kell, University of Cambridge
 Stephen thinks that program-ming, as we know it, has unacceptably high human cost, and that we 
@@ -159,7 +160,6 @@ this non-traditional direction.
 Mariana is a Ph.D. student at the University of Cambridge in the Computer Laboratory.
 Her current work focuses on building tools for creating dynamic data visualisations 
 aimed at end user programmers.
-
 
 #### James Noble, Victoria University of Wellington
 James' research focuses primarily on two areas of software engineering: the design of the users' 
@@ -182,11 +182,15 @@ novel programming models, theory and practice of functional programming, tools f
 storytelling and data science, but also philosophy of science applied to programming.
 
 #### Jack Schaedler, Ableton
-Jack studied Digital Signal Processing at Queen Mary, University of London and Computer Science 
-at the University of Texas. He is interested in drawing, painting, science, software, and education. 
-Jack wants to help make personal computing edifying and beautiful. 
+Jack is interested in work that aims to make computation more easily appropriable by 
+authors, educators, artists, and musicians who wish to communicate their ideas in a dynamic 
+medium. He's interested in tools and languages for authoring interactive literature and artwork, 
+as well as approaches for ensuring that these works remain accessible to posterity. Jack works 
+as a developer for Ableton where he builds software tools for musicians. In his free time, he 
+creates online experiences which explore the explanatory and educational potential of 
+interactive literature. 
 
-#### Philip Tchernavskij, Aarhus University
+#### Philip Tchernavskij, Université Paris-Sud
 Philip programs so that we all might program less. He works on infrastructure for software that 
 can be pulled apart and put back together by end-users to fit them and their communities. He is 
 trying to make software tools more like analog hand tools, which can generally be selected, 
@@ -223,8 +227,8 @@ what the papers might look like, check out the [papers from Salon des Refusés 2
 
 ### Important dates
 
- - Deadline for submissions: **February 1, 2018**
- - Notification of authors: **February 17, 2018**
+ - Deadline for submissions: ~~February 1, 2018~~ Extended to **February 8, 2018**
+ - Notification of authors: ~~February 17, 2018~~ Extended to **February 24, 2018**
  - Workshop at ‹Programming› 2018: **April 9-12, 2018**
  - Submission page: [SdR 2018 on EasyChair](https://easychair.org/conferences/?conf=sdr18)
  
