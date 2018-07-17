@@ -8,7 +8,7 @@ theme: blue
 <div class="art-meta" id="art-meta"><div class="container">
   <div class="row">
     <div class="col-sm-12">
-      <h1 class="sdr">Salon des Refusés 2018</h1>
+      <h1 class="sdr">Salon des Refusés 2019</h1>
       <h1>{{ page.title }}</h1>
     </div>
   </div>
@@ -30,7 +30,7 @@ theme: blue
   </div></div>
   <div class="row"><div class="col-sm-12">
     <p class="links">
-      <a href="#article"><i class="fa fa-arrow-circle-down"></i> Salon des Refusés 2018 call for papers</a>
+      <a href="#article"><i class="fa fa-arrow-circle-down"></i> Salon des Refusés 2019 call for papers</a>
     </p>          
   </div></div>
 </div></div>
@@ -50,12 +50,14 @@ area of programming language or computer science research that we are interested
 submissions in a format that makes it possible to think about programming in a new way, 
 including the following.
 
-</div></div>
+</div>
+</div>
 </div>
 </section>
 
 <div class="container outlines">
-<div class="row"><div class="col-md-6" markdown="1">
+<div class="row">
+<div class="col-md-6" markdown="1">
 
 ### Thought experiments
 We believe that thought experiments, analogies and illustrative 
@@ -70,16 +72,11 @@ explore alternative scientific paradigms.
 A story or an artistic performance may explore ideas and 
 spark conversations that provide crucial inspiration for development of new computer science thinking.
 
-<div style="height:50px" class="hidden-sm"></div>
-</div>
-<div class="col-md-6" markdown="1">
-
 ### Experimentation
 We find prejudices in favour of theory, as far back as there is 
 institutionalized science, but programming can often be seen more as experimentation than 
 as theorizing. We welcome interesting experiments even if there is yet no overarching theory 
 that explains why they happened.
-
 
 ### Metaphors, myths and analogies
 Any description of formal, mathematical, quantitative or 
@@ -87,13 +84,12 @@ even poetical nature still represents just an analogy. We believe that fruitful 
 learned from less common forms of analogies as well as from the predominant, formal and 
 mathematical ones.
 
+</div>
+<div class="col-md-6" markdown="1">
+
 ### (Counter-)Histories
 We are inspired by the idea that our field may currently be in its pre-history, and that the practices we have adopted may be completely faulty. 
 A counter-history may report on today’s primitive notions of programming from the far future, or on the unfulfilled promise of programming’s past.
-
-<div style="height:50px" class="hidden-sm"></div>
-</div>
-<div class="col-md-6" markdown="1">
 
 ### Ironies of Software Design
 The ‘best practices’ of programming are motivated by math and engineering virtues such as consistency, correctness, and efficiency. 
@@ -128,7 +124,8 @@ of the committee to discuss your ideas.
 </div>
 </section>
 <div class="container outlines">
-<div class="row"><div class="col-md-6" markdown="1">
+<div class="row">
+<div class="col-md-6" markdown="1">
 
 #### Antranig Basman, Raising the floor
 Antranig wants to see work that widens the audience for software by considering the role it might 
@@ -143,9 +140,12 @@ Luke is a researcher at the University of Cambridge. He studies how to improve t
 people have when dealing with complex systems. For example: programming languages, configuration 
 systems or animal behaviour.
 
-### Clayton Lewis, University of Colorado Boulder
+#### Clayton Lewis, University of Colorado Boulder
 Clayton is Professor of Computer Science and Fellow of the Institute of Cognitive Science, at the University of Colorado, Boulder. 
 He is well known for his research on evaluation methods in user interface design, and has also contributed to cognitive assistive technology, programming language design, educational technology, and cognitive theory in causal attribution and learning. 
+
+</div>
+<div class="col-md-6" markdown="1">
 
 #### Mariana Marasoiu, University of Cambridge
 Mariana is a Ph.D. student at the University of Cambridge in the Computer Laboratory.
@@ -165,7 +165,6 @@ combined, shared, and altered in ways that we have learned software should not b
 rethinking the languages and architectures we use to build interactive systems, this involves 
 questioning the contemporary roles of designers, developers, and users.
 
-</div><div class="col-md-6" markdown="1">
 
 <div style="height:50px" class="hidden-sm"></div>
 </div></div>
@@ -176,9 +175,10 @@ questioning the contemporary roles of designers, developers, and users.
 
 ## Format and dates
 
-Submit your papers by February 1, 2018 using the EasyChair link below. We welcome both 
-short (3000 words) and long (9000 words) papers. For some (by no means complete) inspiration on 
-what the papers might look like, check out the [papers from Salon des Refusés 2017](https://www.shift-society.org/salon/2017/).
+Submit your papers by January 7, 2019 (Submission link to come). 
+We welcome both short (3000 words) and long (9000 words) papers. 
+For some (by no means complete) inspiration on what the papers might look like, 
+check out the [papers from previous editions of Salon des Refusés](https://www.shift-society.org/salon/papers/).
 
 </div></div>
 </div>
@@ -191,7 +191,7 @@ what the papers might look like, check out the [papers from Salon des Refusés 2
  - Deadline for submissions: January 7 2019
  - Notification of authors: January 23 2019
  - Workshop at ‹Programming› 2019: **April 1 or 2, 2019**
- - Submission page: (To come)
+ - Submission page: To come
  
 <div style="height:50px" class="hidden-sm"></div>
 </div><div class="col-md-6" markdown="1">
