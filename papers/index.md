@@ -33,7 +33,7 @@ theme: red
   </div></div>
   <div class="row"><div class="col-sm-12">
     <p class="links">
-      <a href="#article"><i class="fa fa-arrow-circle-down"></i> Salon des Refusés 2017 papers</a>
+      <a href="#article"><i class="fa fa-arrow-circle-down"></i>Previous Salon des Refusés papers</a>
     </p>          
   </div></div>
 </div></div>
