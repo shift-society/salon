@@ -100,9 +100,9 @@ We invite reports on the ironic consequences of virtuous programming, and the ir
 The orthodoxies of programming ought to be challenged from outside the field, from the point of view of those that are affected by or excluded from it. 
 We invite both insiders and outsiders to submit critical dialogues on programming.
 
-
+</div>
+</div>
 <div style="height:50px" class="hidden-sm"></div>
-</div></div>
 </div>
 <section style="margin-top:0px">
 <div class="container">
@@ -120,7 +120,8 @@ Luke Church (luke at church dot name) or Philip Tchernavskij (ptchernavskij at p
 at [@ptchernavskij](http://twitter.com/ptchernavskij), or get in touch with any of the other members 
 of the committee to discuss your ideas.
 
-</div></div>
+</div>
+</div>
 </div>
 </section>
 <div class="container outlines">
@@ -144,18 +145,25 @@ systems or animal behaviour.
 Clayton is Professor of Computer Science and Fellow of the Institute of Cognitive Science, at the University of Colorado, Boulder. 
 He is well known for his research on evaluation methods in user interface design, and has also contributed to cognitive assistive technology, programming language design, educational technology, and cognitive theory in causal attribution and learning. 
 
-</div>
-<div class="col-md-6" markdown="1">
-
 #### Mariana Marasoiu, University of Cambridge
 Mariana is a Ph.D. student at the University of Cambridge in the Computer Laboratory.
 Her current work focuses on building tools for creating dynamic data visualisations 
 aimed at end user programmers.
 
+</div>
+<div class="col-md-6" markdown="1">
+
 #### Tomas Petricek, Alan Turing Institute
 Tomas is interested in work that challenges how we think about programming. He is interested in 
 novel programming models, theory and practice of functional programming, tools for data-driven 
 storytelling and data science, but also philosophy of science applied to programming.
+
+#### Winnie Soon, Aarhus University
+Winnie Soon is an artist-researcher-coder-educator who resides in Hong Kong and Denmark. 
+Her works explore themes/concepts around digital culture, including internet censorship, data circulation, image politics, code and real-time processing, etc. 
+Winnie’s projects have been exhibited and presented internationally at museums, festivals, universities and conferences across Europe, Asia and America. 
+Her current research focuses on exploratory and aesthetic programming, working on two books titled “Aesthetic Programming” (with Geoff Cox) and “Fix My Code” (with Cornelia Sollfrank). 
+She is Assistant Professor at Aarhus University.
 
 #### Philip Tchernavskij, Université Paris-Sud
 Philip programs so that we all might program less. He works on infrastructure for software that 
@@ -167,7 +175,8 @@ questioning the contemporary roles of designers, developers, and users.
 
 
 <div style="height:50px" class="hidden-sm"></div>
-</div></div>
+</div>
+</div>
 </div>
 <section style="margin-top:0px">
 <div class="container">
