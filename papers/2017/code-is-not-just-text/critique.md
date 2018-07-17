@@ -59,7 +59,7 @@ These school teachers they would never make something in a text based language, 
 </div>
 <div class="col-sm-12 col-md-12 figure" markdown="1">
 
-<a href="/salon/2017/papers/code-is-not-just-text/studio.png"><img src="/salon/2017/papers/code-is-not-just-text/studio.png" class="img-responsive" /></a>
+<a href="/salon/papers/2017/code-is-not-just-text/studio.png"><img src="/salon/papers/2017/code-is-not-just-text/studio.png" class="img-responsive" /></a>
 
 **Figure 1.** Discoverability in Scratch 
 
