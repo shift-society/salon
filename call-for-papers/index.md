@@ -141,17 +141,22 @@ Luke is a researcher at the University of Cambridge. He studies how to improve t
 people have when dealing with complex systems. For example: programming languages, configuration 
 systems or animal behaviour.
 
+#### Stephen Kell, University of Kent
+Stephen thinks that programming, as we know it, has unacceptably high human cost, and that we cannot solve this problem by escalation. 
+We need programming systems that help us not to write more code, but to write less, combine, downsize and simplify code. 
+He is a system-builder, interested not only in designing and building such programming systems, but in evolving existing systems in this non-traditional direction.
+
 #### Clayton Lewis, University of Colorado Boulder
 Clayton is Professor of Computer Science and Fellow of the Institute of Cognitive Science, at the University of Colorado, Boulder. 
 He is well known for his research on evaluation methods in user interface design, and has also contributed to cognitive assistive technology, programming language design, educational technology, and cognitive theory in causal attribution and learning. 
+
+</div>
+<div class="col-md-6" markdown="1">
 
 #### Mariana Marasoiu, University of Cambridge
 Mariana is a Ph.D. student at the University of Cambridge in the Computer Laboratory.
 Her current work focuses on building tools for creating dynamic data visualisations 
 aimed at end user programmers.
-
-</div>
-<div class="col-md-6" markdown="1">
 
 #### Tomas Petricek, Alan Turing Institute
 Tomas is interested in work that challenges how we think about programming. He is interested in 
