@@ -150,13 +150,17 @@ He is a system-builder, interested not only in designing and building such progr
 Clayton is Professor of Computer Science and Fellow of the Institute of Cognitive Science, at the University of Colorado, Boulder. 
 He is well known for his research on evaluation methods in user interface design, and has also contributed to cognitive assistive technology, programming language design, educational technology, and cognitive theory in causal attribution and learning. 
 
-</div>
-<div class="col-md-6" markdown="1">
-
 #### Mariana Marasoiu, University of Cambridge
 Mariana is a Ph.D. student at the University of Cambridge in the Computer Laboratory.
 Her current work focuses on building tools for creating dynamic data visualisations 
 aimed at end user programmers.
+
+</div>
+<div class="col-md-6" markdown="1">
+
+#### Midas Nouwens, Aarhus University
+Midas is interested in the political economy of software production and consumption, that is, how specific technical characteristics of software help produce particular people, labour conditions, and societies. 
+He is currently mostly exploring the consequences of application-centric computing as a distinct paradigm of computational media, as well as looking for ways to use regulation and policy innovation to shift that paradigm into one that is more sustainable, equitable, transparent, and accountable.
 
 #### Tomas Petricek, Alan Turing Institute
 Tomas is interested in work that challenges how we think about programming. He is interested in 
