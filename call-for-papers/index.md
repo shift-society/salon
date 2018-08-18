@@ -175,13 +175,9 @@ Her current research focuses on exploratory and aesthetic programming, working o
 She is Assistant Professor at Aarhus University.
 
 #### Philip Tchernavskij, Université Paris-Sud
-Philip programs so that we all might program less. He works on infrastructure for software that 
-can be pulled apart and put back together by end-users to fit them and their communities. He is 
-trying to make software tools more like analog hand tools, which can generally be selected, 
-combined, shared, and altered in ways that we have learned software should not be. Besides 
-rethinking the languages and architectures we use to build interactive systems, this involves 
-questioning the contemporary roles of designers, developers, and users.
-
+Philip works on infrastructure for software that can be pulled apart and put back together by end-users to fit them and their communities. 
+He is trying to make software tools more like analog hand tools, which can generally be selected, combined, shared, and altered in ways that we have learned software should not be. 
+Besides rethinking the languages and architectures we use to build interactive systems, this involves questioning the current roles of designers, developers, and users.
 
 <div style="height:50px" class="hidden-sm"></div>
 </div>
