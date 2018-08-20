@@ -150,7 +150,7 @@ He is a system-builder, interested not only in designing and building such progr
 Clayton is Professor of Computer Science and Fellow of the Institute of Cognitive Science, at the University of Colorado, Boulder. 
 He is well known for his research on evaluation methods in user interface design, and has also contributed to cognitive assistive technology, programming language design, educational technology, and cognitive theory in causal attribution and learning. 
 
-#### Mariana Marasoiu, University of Cambridge
+#### Mariana Mărășoiu, University of Cambridge
 Mariana is a Ph.D. student at the University of Cambridge in the Computer Laboratory.
 Her current work focuses on building tools for creating dynamic data visualisations 
 aimed at end user programmers.
