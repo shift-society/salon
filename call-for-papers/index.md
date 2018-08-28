@@ -158,6 +158,10 @@ aimed at end user programmers.
 </div>
 <div class="col-md-6" markdown="1">
 
+#### Nolwenn Maudet, University of Tokyo
+Nolwenn is an interaction designer and a researcher at the university of Tokyo. 
+She studies how creative professionals, including interaction designers and programmers, work and collaborate with their dedicated software and she is exploring how we can create new interactive tools that fill in the gap between graphical user interfaces and programming.
+
 #### Midas Nouwens, Aarhus University
 Midas is interested in the political economy of software production and consumption, that is, how specific technical characteristics of software help produce particular people, labour conditions, and societies. 
 He is currently mostly exploring the consequences of application-centric computing as a distinct paradigm of computational media, as well as looking for ways to use regulation and policy innovation to shift that paradigm into one that is more sustainable, equitable, transparent, and accountable.
