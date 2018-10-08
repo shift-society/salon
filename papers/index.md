@@ -33,7 +33,8 @@ theme: red
   </div></div>
   <div class="row"><div class="col-sm-12">
     <p class="links">
-      <a href="#article"><i class="fa fa-arrow-circle-down"></i>Previous Salon des Refusés papers</a>
+      <a href="#2017"><i class="fa fa-arrow-circle-down"></i>Salon des Refusés 2017 papers</a><br />
+      <a href="#2018"><i class="fa fa-arrow-circle-down"></i>Salon des Refusés 2018 papers</a>
     </p>          
   </div></div>
 </div></div>
@@ -44,7 +45,7 @@ theme: red
 
 <article id="article">
 
-<section style="margin-top:0px">
+<section id="2017" style="margin-top:0px">
 <div class="container">
 <div class="row">
 <div class="col-md-9" markdown="1">
@@ -289,7 +290,7 @@ I find myself in violent agreement with Colin Clark and Antranig Basman. In this
 </div>
 </div>
 
-<section style="margin-top:0px">
+<section id="2018" style="margin-top:0px">
 <div class="container">
 <div class="row">
 <div class="col-md-9" markdown="1">
