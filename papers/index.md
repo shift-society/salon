@@ -249,11 +249,11 @@ The traditional view of software components sees them as objects that hide their
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-### [What Can Software Learn from Hypermedia?](/salon/papers/2017/revised/hypermedia.pdf)
+### [What Can Software Learn from Hypermedia?](/salon/papers/2017/revised/what-can-software-learn-from-hypermedia.pdf)
 
 > **Authors**: Philip Tchernavskij, Clemens Nylandsted Klokmose, Michel Beaudouin-Lafon
 
-#### [Paper abstract](/salon/papers/2017/revised/hypermedia.pdf)
+#### [Paper abstract](/salon/papers/2017/revised/what-can-software-learn-from-hypermedia.pdf)
 Most of our interactions with the digital world are mediated by apps: desktop, web, or mobile applications. 
 Apps impose artificial limitations on collaboration among users, distribution across devices, and the changing procedures that constantly occur in real work. 
 These limitations are partially due to the engineering principles of encapsulation and program-data separation. 
@@ -261,7 +261,7 @@ By contrast, the field of hypermedia envisions collaboration, distribution and f
 We discuss shareable dynamic media, an alternative model for software that unifies hypermedia and interactive systems, and Webstrates, an experimental implementation of that model. 
 We give examples of patterns and challenges for software architecture that have emerged in our experimentation with Webstrates, and show that it subverts the principles of encapsulation and program-data separation.
 
-<p class="links"><a href="/salon/papers/2017/revised/hypermedia.pdf"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
+<p class="links"><a href="/salon/papers/2017/revised/what-can-software-learn-from-hypermedia.pdf"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
 
 </div>
 <div class="col-md-6" markdown="1">
@@ -378,12 +378,12 @@ In this critique of Files as Directories (FAD) by Raphael Wimmer, I argue that F
 </div>
 <div class="col-md-6" markdown="1">
 
-### [An Anatomy of Interaction: Co-occurrences and Entanglements](/salon/papers/2018/revised/anatomy-of-interaction.pdf)
+### [An Anatomy of Interaction: Co-occurrences and Entanglements](/salon/papers/2018/revised/anatomy-of-interaction-authorversion.pdf)
 
 > **Author**: Antranig Basman, Philip Tchernavskij<br />
 > **Critique**: Tomas Petricek
 
-#### [Paper abstract](/salon/papers/2018/revised/anatomy-of-interaction.pdf)
+#### [Paper abstract](/salon/papers/2018/revised/anatomy-of-interaction-authorversion.pdf)
 We present a new taxonomy for describing the conditions and implementation of interactions. 
 Current mechanisms for embedding interaction in software promote a hard separation between the programmers who produce the software, and the communities who go on to use it. 
 In order to support open ecologies of function and fabrication, where this separation is negotiated by communities of users and designers, we need to reconceive those mechanisms. 
@@ -392,7 +392,7 @@ We then sketch a blueprint of a system where those phases and their adjacent mec
 There are many ways of conceiving this new design space, and we present three dominant metaphors which we have employed so far, based on chemical reactions, quantum physics and cooking. 
 We exhibit different systems which we have implemented based on these metaphors, and sketch how future systems will further empower citizens to design and inhabit their own interactions, express ownership over them and share them with communities of interest.
 
-<p class="links"><a href="/salon/papers/2018/revised/anatomy-of-interaction.pdf"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
+<p class="links"><a href="/salon/papers/2018/revised/anatomy-of-interaction.pdf-authorversion"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
 
 #### [Critique abstract](/salon/papers/2018/critiques/critique-anatomy-of-interaction.pdf)
 The paper by Basman et al. suggests that we think about programming in terms of interaction rather than algorithms. 
