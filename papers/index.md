@@ -266,12 +266,12 @@ We give examples of patterns and challenges for software architecture that have 
 </div>
 <div class="col-md-6" markdown="1">
 
-### [Tracing a Paradigm for Externalization: Avatars and the GPII Nexus](/salon/papers/2017/preprints/avatars.pdf)
+### [Tracing a Paradigm for Externalization: Avatars and the GPII Nexus](/salon/papers/2017/revised/externalization.pdf)
 
 > **Authors**: Colin Clark, Antranig Basman <br />
 > **Critique**: Philip Tchernavskij
 
-#### [Paper abstract](/salon/papers/2017/preprints/avatars.pdf)
+#### [Paper abstract](/salon/papers/2017/revised/externalization.pdf)
 We will situate the concept of an avatar (a working simulacrum of part of a system separated from it in space or time) with respect to traditional concepts of programming language and systems design. 
 Whilst much theory and practice argues in favour of insulation (the creation of architectural boundaries prohibiting the leakage of information) we will find that many successful systems take a diametrically opposed approach. 
 We name this family of systems as those based on externalised state transfer. 
@@ -279,7 +279,7 @@ Rather than hiding implementation details behind APIs, object interfaces or simi
 Examples of these systems include RESTful web applications, MIDI devices, and the DWARF debugging file format. 
 We discuss such systems and how we can purposefully design new systems embodying such virtues in a more distilled form.
 
-<p class="links"><a href="/salon/papers/2017/preprints/avatars.pdf"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
+<p class="links"><a href="/salon/papers/2017/revised/externalization.pdf"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
 
 #### [Critique abstract](/salon/papers/2017/critiques/externalization/critique-externalization.html)
 I find myself in violent agreement with Colin Clark and Antranig Basman. In this critique, I relate their paper to some Human-Computer Interaction (HCI) literature. HCI offers a tradition of studying computer-mediated human activity, and helps us build on the presented pattern. To illustrate this, I speculate on what sort of non-program artifacts avatars could beget. I also relate the concept of avatars to transclusion, as presented in our paper, What can software learn from hypermedia?. This paper is also instructive for HCI readers, in its ability to connect the means of programming with the ends of non-programmers. I conclude with some remarks on the research agenda that is implied therein.
@@ -309,7 +309,7 @@ I find myself in violent agreement with Colin Clark and Antranig Basman. In this
 ### [Lector in Codigo or The Role of the Reader](/salon/papers/2018/revised/lector-in-codigo.pdf)
 
 > **Author**: Alvaro Videla<br />
-<!-- > **Critique**: -->
+<!-- > **Critique**: Luke Church -->
 
 #### [Paper abstract](/salon/papers/2018/revised/lector-in-codigo.pdf)
 In this article I want to explore the relation between the process of writing computer programs with that of writing literary works of fiction. 
@@ -332,7 +332,7 @@ What ideas can we incorporate from that discipline into our day to day programmi
 ### [Semprola: A Semiotic Programming Language](/salon/papers/2018/revised/semprola.pdf)
 
 > **Author**: Oli Sharpe<br />
-<!-- > **Critique**: Antranig Basman -->
+> **Critique**: Antranig Basman
 
 #### [Paper abstract](/salon/papers/2018/revised/semprola.pdf)
 Most people interested in developing new programming languages or programming environments are looking at how to improve the syntax and semantics of the program text or at tools that help make programmers more productive at crafting the program text. 
@@ -344,11 +344,10 @@ Finally the paper gives a brief introduction to Semprola, a Semiotic Programming
 
 <p class="links"><a href="/salon/papers/2018/revised/semprola.pdf"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
 
-<!--
-#### [Critique abstract](link)
+#### [Critique abstract](/salon/papers/2018/critiques/critique-semprola.pdf)
+We supply a critique of the paper Semprola: A Semiotic Programming Language, suggesting directions in which its work of bringing semiotics to programming can be refined, and supplying opinions on areas where it may be refounded.
 
-<p class="links"><a href="link"><i class="fa fa-arrow-circle-right"></i> Read the critique</a></p>
--->
+<p class="links"><a href="/salon/papers/2018/critiques/critique-semprola.pdf"><i class="fa fa-arrow-circle-right"></i> Read the critique</a></p>
 
 </div>
 </div>
