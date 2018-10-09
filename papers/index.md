@@ -379,7 +379,7 @@ In this critique of Files as Directories (FAD) by Raphael Wimmer, I argue that F
 
 ### [An Anatomy of Interaction: Co-occurrences and Entanglements](/salon/papers/2018/revised/anatomy-of-interaction-authorversion.pdf)
 
-> **Author**: Antranig Basman, Philip Tchernavskij<br />
+> **Authors**: Antranig Basman, Philip Tchernavskij<br />
 > **Critique**: Tomas Petricek
 
 #### [Paper abstract](/salon/papers/2018/revised/anatomy-of-interaction-authorversion.pdf)
