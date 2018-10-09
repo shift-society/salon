@@ -357,7 +357,7 @@ We supply a critique of the paper Semprola: A Semiotic Programming Language, sug
 ### [Files as Directories: Some Thoughts on Accessing Structured Data Within Files](/salon/papers/2018/revised/files-as-directories.pdf)
 
 > **Author**: Raphael Wimmer<br />
-> **Critique**: Philip Tchernavskij
+> **Critiques**: Philip Tchernavskij, Stephen Kell
 
 #### [Paper abstract](/salon/papers/2018/revised/files-as-directories.pdf)
 This is paper explores the concept of files as directories (FAD) as a unified interface to structured data within a  file by representing such a file as (virtual) directory and the structured data as subdirectories and subfiles.
@@ -369,10 +369,15 @@ In this paper I present concept, advantages, limitations, and use cases of FAD.
 
 <p class="links"><a href="/salon/papers/2018/revised/files-as-directories.pdf"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
 
-#### [Critique abstract](/salon/papers/2018/critiques/critique-files-as-directories.pdf)
+#### [Critique 1 abstract](/salon/papers/2018/critiques/critique-files-as-directories-1.pdf)
 In this critique of Files as Directories (FAD) by Raphael Wimmer, I argue that FAD as presented applies primarily to traditional programming tasks, consider FAD as a broader subversion of app-like software, and speculate about the hypothetical design space of FAD beyond programming.
 
-<p class="links"><a href="/salon/papers/2018/critiques/critique-files-as-directories.pdf"><i class="fa fa-arrow-circle-right"></i> Read the critique</a></p>
+<p class="links"><a href="/salon/papers/2018/critiques/critique-files-as-directories-1.pdf"><i class="fa fa-arrow-circle-right"></i> Read the critique</a></p>
+
+#### [Critique 2 abstract](/salon/papers/2018/critiques/critique-files-as-directories-2.pdf)
+In this critique I argue that the motivations and direction of the ‘files as directories’ idea are sound, but the conceptual difficulties are considerable yet non-obvious, and are not limited to those identified by the author. I highlight a selection of concerns, including Unix’s latent pluralism, the blurred boundary between naming and computation in languages, and issues of bidirectionality, semantic diversity and support for economical migration.
+
+<p class="links"><a href="/salon/papers/2018/critiques/critique-files-as-directories-2.pdf"><i class="fa fa-arrow-circle-right"></i> Read the critique</a></p>
 
 </div>
 <div class="col-md-6" markdown="1">
