@@ -27,6 +27,14 @@ theme: blue
     criticism. Papers that provoked an interesting discussion or criticism among the program committee 
     members are presented together with an attributed critical review that presents an alternative
     position, develops additional context or summarizes discussion about the work.</p>
+
+    <p>
+    Below, you'll find the call for papers, including suggested topics, program committee members, and submission format.
+    Important dates:<br />
+     - Deadline for submissions: January 7 2019<br />
+     - Notification of authors: January 23 2019<br />
+     - Workshop at ‹Programming› 2019: <b>April 1 or 2, 2019</b> (TBD)
+    </p>
   </div></div>
   <div class="row"><div class="col-sm-12">
     <p class="links">
