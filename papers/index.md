@@ -309,7 +309,7 @@ I find myself in violent agreement with Colin Clark and Antranig Basman. In this
 ### [Lector in Codigo or The Role of the Reader](/salon/papers/2018/revised/lector-in-codigo.pdf)
 
 > **Author**: Alvaro Videla<br />
-<!-- > **Critique**: Luke Church -->
+> **Critique**: Luke Church
 
 #### [Paper abstract](/salon/papers/2018/revised/lector-in-codigo.pdf)
 In this article I want to explore the relation between the process of writing computer programs with that of writing literary works of fiction. 
@@ -320,11 +320,10 @@ What ideas can we incorporate from that discipline into our day to day programmi
 
 <p class="links"><a href="/salon/papers/2018/revised/lector-in-codigo.pdf"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
 
-<!--
-#### [Critique abstract](link)
+#### [Critique abstract](/salon/papers/2018/critiques/critique-lector-in-codigo.pdf)
+In ‘Lector in Codigo’, Videla challenges us to write for people and computers simultaneously. I examine the implications of this chal- lenge.
 
-<p class="links"><a href="link"><i class="fa fa-arrow-circle-right"></i> Read the critique</a></p>
--->
+<p class="links"><a href="/salon/papers/2018/critiques/critique-lector-in-codigo.pdf"><i class="fa fa-arrow-circle-right"></i> Read the critique</a></p>
 
 </div>
 <div class="col-md-6" markdown="1">
