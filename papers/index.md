@@ -383,7 +383,7 @@ In this critique I argue that the motivations and direction of the ‘files as d
 
 ### [An Anatomy of Interaction: Co-occurrences and Entanglements](/salon/papers/2018/revised/anatomy-of-interaction-authorversion.pdf)
 
-> **Authors**: Antranig Basman, Philip Tchernavskij<br />
+> **Authors**: Antranig Basman, Philip Tchernavskij, Simon Bates, Michel Beaudouin-Lafon<br />
 > **Critique**: Tomas Petricek
 
 #### [Paper abstract](/salon/papers/2018/revised/anatomy-of-interaction-authorversion.pdf)
