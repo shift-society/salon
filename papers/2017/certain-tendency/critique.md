@@ -3,9 +3,15 @@ layout: review
 title: 'Critique: A Certain Tendency of the Database Community'
 paper-url: a-certain-tendency
 paper-abstract: |
-  <p>zz</p>
+  <p>We posit that striving for distributed systems that provide “single system image” semantics is fundamentally flawed and at odds with how systems operate in the physical world. We realize the database as an optimization of this system: a required, essential optimization in practice that facilitates central data placement and ease of access to participants in a system. We motivate a new model of computation that is designed to address the problems of computation over “eventually consistent” information in a large-scale distributed system.</p>
 review-abstract: |
-  <p>zz</p>
+  <p>This is a bold paper, backed by an expansive vision for what the world's
+information systems could become.
+However, it appears to be rushing too headlong for a particular target,
+without properly surveying the complete territory of computer systems and their development.
+It is in fact focused on "systems that have to go to very large scale" -- mentioned 
+in the workshop presentation but not in the paper text.
+My reaction is to ask: which systems are those?</p>
 paper-authors: Christopher Meiklejohn
 review-authors: Stephen Kell
 edition: 2017
@@ -42,7 +48,7 @@ By pushing higher-scalability infrastructure,
 might we be throwing out some programmer-babies with the low-scalability bathwater?
 This point is particularly important
 in a world as hype-driven as that of technology -- a phenomenon
-apparent noy only in industry 
+apparent not only in industry 
 but also in the academic world, which has embraced buzzwords such as "big data"
 in the belief that it refers to the most interesting, current and urgent challenges
 of computer science.
