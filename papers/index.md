@@ -219,6 +219,7 @@ This paper then explores the relation between the antifragility of the developme
 ### [A Certain Tendency of the Database Community](/salon/papers/2017/preprints/tendency.pdf)
 
 > **Author**: Cristopher Meiklejohn
+> **Critique**: Stephen Kell
 
 #### [Paper abstract](/salon/papers/2017/preprints/tendency.pdf)
 We posit that striving for distributed systems that provide “single system image” semantics is fundamentally flawed and at odds with how systems operate in the physical world. 
@@ -227,6 +228,11 @@ a required, essential optimization in practice that facilitates central data pla
 We motivate a new model of computation that is designed to address the problems of computation over “eventually consistent” information in a large-scale distributed system.
 
 <p class="links"><a href="/salon/papers/2017/preprints/tendency.pdf"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
+
+#### [Critique abstract](/salon/papers/2017/certain-tendency/critique)
+xxx
+
+<p class="links"><a href="/salon/papers/2017/certain-tendency/critique"><i class="fa fa-arrow-circle-right"></i> Read the critique</a></p>
 
 </div>
 </div>
