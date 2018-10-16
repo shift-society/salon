@@ -230,7 +230,12 @@ We motivate a new model of computation that is designed to address the problems 
 <p class="links"><a href="/salon/papers/2017/preprints/tendency.pdf"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
 
 #### [Critique abstract](/salon/papers/2017/certain-tendency/critique)
-xxx
+This is a bold paper, backed by an expansive vision for what the world's
+information systems could become.
+However, it appears to be rushing too headlong for a particular target,
+without properly surveying the complete territory of computer systems and their development.
+It is in fact focused on "systems that have to go to very large scale" -- mentioned 
+in the workshop presentation but not in the paper text.
 
 <p class="links"><a href="/salon/papers/2017/certain-tendency/critique"><i class="fa fa-arrow-circle-right"></i> Read the critique</a></p>
 
