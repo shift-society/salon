@@ -406,7 +406,7 @@ We then sketch a blueprint of a system where those phases and their adjacent mec
 There are many ways of conceiving this new design space, and we present three dominant metaphors which we have employed so far, based on chemical reactions, quantum physics and cooking. 
 We exhibit different systems which we have implemented based on these metaphors, and sketch how future systems will further empower citizens to design and inhabit their own interactions, express ownership over them and share them with communities of interest.
 
-<p class="links"><a href="/salon/papers/2018/revised/anatomy-of-interaction.pdf-authorversion"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
+<p class="links"><a href="/salon/papers/2018/revised/anatomy-of-interaction-authorversion.pdf"><i class="fa fa-arrow-circle-right"></i> Read the paper</a></p>
 
 #### [Critique abstract](/salon/papers/2018/critiques/critique-anatomy-of-interaction.pdf)
 The paper by Basman et al. suggests that we think about programming in terms of interaction rather than algorithms. 
