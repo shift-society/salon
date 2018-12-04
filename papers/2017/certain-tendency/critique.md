@@ -6,11 +6,11 @@ paper-abstract: |
   <p>We posit that striving for distributed systems that provide “single system image” semantics is fundamentally flawed and at odds with how systems operate in the physical world. We realize the database as an optimization of this system: a required, essential optimization in practice that facilitates central data placement and ease of access to participants in a system. We motivate a new model of computation that is designed to address the problems of computation over “eventually consistent” information in a large-scale distributed system.</p>
 review-abstract: |
   <p>This is a bold paper, backed by an expansive vision for what the world's
-information systems could become.
-However, it appears to be rushing too headlong for a particular target,
-without properly surveying the complete territory of computer systems and their development.
-It is in fact focused on "systems that have to go to very large scale" -- mentioned 
-in the workshop presentation but not in the paper text.
+  information systems could become.
+  However, it appears to be rushing too headlong for a particular target,
+  without properly surveying the complete territory of computer systems and their development.
+  It is in fact focused on "systems that have to go to very large scale" -- mentioned 
+  in the workshop presentation but not in the paper text.</p>
 My reaction is to ask: which systems are those?</p>
 paper-authors: Christopher Meiklejohn
 review-authors: Stephen Kell

@@ -180,11 +180,7 @@ novel programming models, theory and practice of functional programming, tools f
 storytelling and data science, but also philosophy of science applied to programming.
 
 #### Winnie Soon, Aarhus University
-Winnie Soon is an artist-researcher-coder-educator who resides in Hong Kong and Denmark. 
-Her works explore themes/concepts around digital culture, including internet censorship, data circulation, image politics, code and real-time processing, etc. 
-Winnie’s projects have been exhibited and presented internationally at museums, festivals, universities and conferences across Europe, Asia and America. 
-Her current research focuses on exploratory and aesthetic programming, working on two books titled “Aesthetic Programming” (with Geoff Cox) and “Fix My Code” (with Cornelia Sollfrank). 
-She is Assistant Professor at Aarhus University.
+Winnie is Assistant Professor at Aarhus University, examining the cultural implications of technologies in which computational processes and infrastructure underwrite our experiences, which are ever more programmed. Her works explore computational culture, specifically concerning internet censorship, data circulation, real-time processing/liveness and the culture of code practice. Her current research focuses on [aesthetic coding](http://aestheticprogramming.siusoon.net/) in the realm of software studies, working on two books titled “Aesthetic Programming” (with Geoff Cox) and “Fix My Code” (with Cornelia Sollfrank). 
 
 #### Philip Tchernavskij, Université Paris-Sud
 Philip works on infrastructure for software that can be pulled apart and put back together by end-users to fit them and their communities. 
