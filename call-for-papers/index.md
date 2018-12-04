@@ -217,7 +217,7 @@ check out the [papers from previous editions of Salon des Refusés](https://www.
  - Deadline for submissions: January 7 2019
  - Notification of authors: January 23 2019
  - Workshop at ‹Programming› 2019: **April 1 or 2, 2019** (To be decided)
- - Submission page: To come
+ - Submission page: <a href="https://easychair.org/conferences/?conf=sdr19">SDR19 on EasyChair</a>
  
 <div style="height:50px" class="hidden-sm"></div>
 </div><div class="col-md-6" markdown="1">
