@@ -31,8 +31,8 @@ theme: blue
     <p>
     Below, you'll find the call for papers, including suggested topics, program committee members, and submission format.
     Important dates:<br />
-     - Deadline for submissions: January 7 2019<br />
-     - Notification of authors: January 23 2019<br />
+     - Deadline for submissions: <del>January 7 2019</del> <b>extended to January 21st 2019</b><br />
+     - Notification of authors: <del>January 23 2019</del> February 6th 2019<br />
      - Workshop at ‹Programming› 2019: <b>April 1 or 2, 2019</b> (TBD)
     </p>
   </div></div>
@@ -197,7 +197,7 @@ Besides rethinking the languages and architectures we use to build interactive s
 
 ## Format and dates
 
-Submit your papers by January 7, 2019 (Submission link to come). 
+Submit your papers by January 21st, 2019 on [EasyChair]("https://easychair.org/conferences/?conf=sdr19"). 
 We welcome both short (3000 words) and long (9000 words) papers. 
 For some (by no means complete) inspiration on what the papers might look like, 
 check out the [papers from previous editions of Salon des Refusés](https://www.shift-society.org/salon/papers/).
@@ -210,8 +210,8 @@ check out the [papers from previous editions of Salon des Refusés](https://www.
 
 ### Important dates
 
- - Deadline for submissions: January 7 2019
- - Notification of authors: January 23 2019
+ - Deadline for submissions: ~~January 7 2019~~ extended to January 21st 2019
+ - Notification of authors: ~~January 23 2019~~ February 6th 2019
  - Workshop at ‹Programming› 2019: **April 1 or 2, 2019** (To be decided)
  - Submission page: <a href="https://easychair.org/conferences/?conf=sdr19">SDR19 on EasyChair</a>
  
