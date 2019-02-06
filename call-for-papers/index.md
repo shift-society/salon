@@ -33,7 +33,7 @@ theme: blue
     Important dates:<br />
      - Deadline for submissions: <del>January 7 2019</del> <b>extended to January 21st 2019</b><br />
      - Notification of authors: <del>January 23 2019</del> February 6th 2019<br />
-     - Workshop at ‹Programming› 2019: <b>April 1 or 2, 2019</b> (TBD)
+     - Workshop at ‹Programming› 2019: <b>April 2, 2019</b> (TBD)
     </p>
   </div></div>
   <div class="row"><div class="col-sm-12">
@@ -212,7 +212,7 @@ check out the [papers from previous editions of Salon des Refusés](https://www.
 
  - Deadline for submissions: ~~January 7 2019~~ extended to January 21st 2019
  - Notification of authors: ~~January 23 2019~~ February 6th 2019
- - Workshop at ‹Programming› 2019: **April 1 or 2, 2019** (To be decided)
+ - Workshop at ‹Programming› 2019: **April 2, 2019** 
  - Submission page: <a href="https://easychair.org/conferences/?conf=sdr19">SDR19 on EasyChair</a>
  
 <div style="height:50px" class="hidden-sm"></div>
